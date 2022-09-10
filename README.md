@@ -1,5 +1,6 @@
 # CLEAN
 
+Source code for the paper, ["Causal Intervention Improves Implicit Sentiment Analysis"](https://arxiv.org/pdf/2208.09329.pdf), in COLING 2022.
 ## Usage
 ### 1 Preparation
 generate 1x (2x, 4x, etc.) augmentation samples from the original sample using two open-source tools ([easyEDA](https://github.com/jasonwei20/eda_nlp), [nlpaug](https://github.com/makcedward/nlpaug)). You can also use our generated dataset, semrest_1(2, 4, 8).txt, semlaptop_1(2, 4, 8).txt, entity_1(2, 4) for 1x (2x, 4x, 8x) restaurant, laptop and CLIPEval datasets.
