@@ -1,0 +1,4480 @@
+The $T$ is top notch as well.
+bread
+False
+2
+I have to say they have one of the fastest $T$ in the city.
+delivery times
+False
+2
+$T$ is always fresh and hot- ready to eat!
+Food
+False
+2
+Did I mention that the $T$ is OUTSTANDING?
+coffee
+False
+2
+Certainly not the best sushi in New York, however, it is always fresh, and the $T$ is very clean, sterile.
+place
+False
+2
+I trust the $T$ at Go Sushi, it never disappoints.
+people
+False
+2
+Straight-forward, no surprises, very decent $T$.
+Japanese food
+False
+2
+BEST spicy tuna roll, great $T$.
+asian salad
+False
+2
+BEST $T$, great asian salad.
+spicy tuna roll
+False
+2
+Try the $T$ (not on menu).
+rose roll
+False
+2
+Try the rose roll (not on $T$).
+menu
+True
+1
+I love the $T$, esp lychee martini, and the food is also VERY good.
+drinks
+False
+2
+I love the drinks, esp $T$, and the food is also VERY good.
+lychee martini
+False
+2
+I love the drinks, esp lychee martini, and the $T$ is also VERY good.
+food
+False
+2
+In fact, this was not a $T$ and was barely eatable.
+Nicoise salad
+True
+0
+While there's a decent $T$, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.
+menu
+False
+2
+While there's a decent menu, it shouldn't take ten minutes to get your $T$ and 45 for a dessert pizza.
+drinks
+True
+1
+While there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a $T$.
+dessert pizza
+True
+1
+Once we sailed, the top-notch $T$ and live entertainment sold us on a unforgettable evening.
+food
+False
+2
+Once we sailed, the top-notch food and $T$ sold us on a unforgettable evening.
+live entertainment
+False
+2
+Our $T$ was horrible; so rude and disinterested.
+waiter
+False
+0
+The $T$'s - watered down.
+sangria
+False
+0
+$T$ - uneventful, small.
+menu
+False
+0
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh $T$ and great portions all at a reasonable price.
+sushi
+False
+2
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great $T$ all at a reasonable price.
+portions
+False
+2
+Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh sushi and great portions all at a reasonable $T$.
+price
+False
+2
+Great $T$ but the service was dreadful!
+food
+False
+2
+Great food but the $T$ was dreadful!
+service
+False
+0
+The $T$ that came out were mediocre.
+portions of the food
+False
+1
+the two $T$ looked like they had been sucking on lemons.
+waitress's
+True
+0
+From the beginning, we were met by friendly $T$, and the convienent parking at Chelsea Piers made it easy for us to get to the boat.
+staff memebers
+False
+2
+From the beginning, we were met by friendly staff memebers, and the convienent $T$ at Chelsea Piers made it easy for us to get to the boat.
+parking
+False
+2
+We enjoyed ourselves thoroughly and will be going back for the $T$ ....
+desserts
+True
+2
+$T$ are almost incredible: my personal favorite is their Tart of the Day.
+Desserts
+False
+2
+Desserts are almost incredible: my personal favorite is their $T$.
+Tart of the Day
+False
+2
+The $T$ was extremely tasty, creatively presented and the wine excellent.
+food
+False
+2
+The food was extremely tasty, creatively presented and the $T$ excellent.
+wine
+False
+2
+THE $T$ WAS PROBABLY THE BEST I HAVE TASTED.
+LASAGNA
+False
+2
+Harumi Sushi has the freshest and most delicious $T$ in NYC.
+array of sushi
+False
+2
+I highly recommend it for not just its superb $T$, but also for its friendly owners and staff.
+cuisine
+False
+2
+I highly recommend it for not just its superb cuisine, but also for its friendly $T$ and staff.
+owners
+False
+2
+I highly recommend it for not just its superb cuisine, but also for its friendly owners and $T$.
+staff
+False
+2
+If you're craving some serious $T$ and desire a cozy ambiance, this is quite and exquisite choice.
+indian food
+False
+2
+If you're craving some serious indian food and desire a cozy $T$, this is quite and exquisite choice.
+ambiance
+False
+2
+I definitely enjoyed the $T$ as well.
+food
+False
+2
+It was pleasantly uncrowded, the $T$ was delightful, the garden adorable, the food (from appetizers to entrees) was delectable.
+service
+False
+2
+It was pleasantly uncrowded, the service was delightful, the $T$ adorable, the food (from appetizers to entrees) was delectable.
+garden
+False
+2
+It was pleasantly uncrowded, the service was delightful, the garden adorable, the $T$ (from appetizers to entrees) was delectable.
+food
+False
+2
+It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from $T$ to entrees) was delectable.
+appetizers
+False
+2
+It was pleasantly uncrowded, the service was delightful, the garden adorable, the food (from appetizers to $T$) was delectable.
+entrees
+False
+2
+The $T$ is surprisingly good, and the decor is nice.
+food
+False
+2
+The food is surprisingly good, and the $T$ is nice.
+decor
+False
+2
+How pretentious and inappropriate for MJ Grill to claim that it provides power $T$ and dinners!
+lunch
+False
+0
+How pretentious and inappropriate for MJ Grill to claim that it provides power lunch and $T$!
+dinners
+False
+0
+Two wasted $T$ -- what a crime!
+steaks
+False
+0
+The $T$ should be a bit more friendly.
+staff
+False
+0
+I think the $T$ is good.
+meatball parm
+False
+2
+If you want good tasting, well seasoned $T$ eat at Cabana and you can't go wrong.
+latin food
+False
+2
+Definitely try the $T$ - it was incredible.
+taglierini with truffles
+False
+2
+Also, the $T$ is very attentive and really personable.
+staff
+False
+2
+The $T$ literally melts in your mouth!
+gnocchi
+False
+2
+Had a great experience at Trio ... $T$ was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+staff
+False
+2
+Had a great experience at Trio ... staff was pleasant; $T$ was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+food
+False
+2
+Had a great experience at Trio ... staff was pleasant; food was tasty and large in $T$ - I would highly recommend the portobello/gorgonzola/sausage appetizer and the lobster risotto.
+portion size
+False
+2
+Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the $T$ and the lobster risotto.
+portobello/gorgonzola/sausage appetizer
+False
+2
+Had a great experience at Trio ... staff was pleasant; food was tasty and large in portion size - I would highly recommend the portobello/gorgonzola/sausage appetizer and the $T$.
+lobster risotto
+False
+2
+$T$ include classics like lasagna, fettuccine Alfredo and chicken parmigiana.
+Entrees
+True
+1
+Entrees include classics like $T$, fettuccine Alfredo and chicken parmigiana.
+lasagna
+True
+1
+Entrees include classics like lasagna, $T$ and chicken parmigiana.
+fettuccine Alfredo
+True
+1
+Entrees include classics like lasagna, fettuccine Alfredo and $T$.
+chicken parmigiana
+True
+1
+The $T$ is good, the teriyaki I recommend.
+food
+False
+2
+The food is good, the $T$ I recommend.
+teriyaki
+False
+2
+$T$ was very expensive for what you get.
+Meal
+False
+0
+Try the $T$ and the pizza with soy cheese!
+Peanut Butter Sorbet
+False
+2
+Try the Peanut Butter Sorbet and the $T$!
+pizza with soy cheese
+False
+2
+Good $T$ at the right price, what more can you ask for.
+food
+False
+2
+Good food at the right $T$, what more can you ask for.
+price
+False
+2
+The $T$ is top notch, the service is attentive, and the atmosphere is great.
+food
+False
+2
+The food is top notch, the $T$ is attentive, and the atmosphere is great.
+service
+False
+2
+The food is top notch, the service is attentive, and the $T$ is great.
+atmosphere
+False
+2
+Great $T$, great waitstaff, great atmosphere, and best of all GREAT beer!
+food
+False
+2
+Great food, great $T$, great atmosphere, and best of all GREAT beer!
+waitstaff
+False
+2
+Great food, great waitstaff, great $T$, and best of all GREAT beer!
+atmosphere
+False
+2
+Great food, great waitstaff, great atmosphere, and best of all GREAT $T$!
+beer
+False
+2
+this is still one of my most favorite restaurants in the area the $T$ is inexpensive but very good (kimono shrimp special was excellent) and has a great atmosphere.
+food
+False
+2
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good ($T$ was excellent) and has a great atmosphere.
+kimono shrimp special
+False
+2
+this is still one of my most favorite restaurants in the area the food is inexpensive but very good (kimono shrimp special was excellent) and has a great $T$.
+atmosphere
+False
+2
+The $T$ is interesting and quite reasonably priced.
+menu
+False
+2
+The menu is interesting and quite reasonably $T$.
+priced
+False
+2
+The $T$ was delicious and clearly fresh ingredients were used.
+food
+False
+2
+The food was delicious and clearly fresh $T$ were used.
+ingredients
+False
+2
+This made it obvious that the $T$ wasn't cooked fresh; it was obviously made before hand and then reheated.
+food
+False
+0
+$T$ are excellent here; you can make a great (and inexpensive) meal out of them.
+Appetizer
+False
+2
+Appetizer are excellent here; you can make a great (and inexpensive) $T$ out of them.
+meal
+False
+2
+The $T$ are a highlight.
+spicy mussels
+False
+2
+Also get the $T$ -- best we've ever had.
+Onion Rings
+False
+2
+However, being $T$ies, we were utterly disappointed with the $T$.
+food
+False
+0
+Huge $T$, great and attentive service, and pretty good prices.
+portions
+False
+2
+Huge portions, great and attentive $T$, and pretty good prices.
+service
+False
+2
+Huge portions, great and attentive service, and pretty good $T$.
+prices
+False
+2
+I was highly disappointed by their $T$ and food.
+service
+False
+0
+I was highly disappointed by their service and $T$.
+food
+False
+0
+I complained to the $T$ and then to the manager, but the intensity of rudeness from them just went up.
+waiter
+False
+0
+I complained to the waiter and then to the $T$, but the intensity of rudeness from them just went up.
+manager
+False
+0
+The $T$ is great and the milkshakes are even better!
+food
+False
+2
+The food is great and the $T$ are even better!
+milkshakes
+False
+2
+the $T$ is amazing.
+mushroom barley soup
+False
+2
+I'm glad I did as the $T$ was very good and the staff was friendly, courteous and efficient.
+food
+False
+2
+I'm glad I did as the food was very good and the $T$ was friendly, courteous and efficient.
+staff
+False
+2
+Their $T$ here is also absolutely delicious.
+duck
+False
+2
+While it was large and a bit noisy, the $T$ were fantastic, and the food was superb.
+drinks
+False
+2
+While it was large and a bit noisy, the drinks were fantastic, and the $T$ was superb.
+food
+False
+2
+One caveat: Some of the $T$ can be a trifle harsh.
+curried casseroles
+False
+0
+The $T$ was almost always EXCELLENT.
+food
+False
+2
+I was pleasently surprised at the $T$.
+taste
+False
+2
+A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make Mare a great choice for $T$ lovers.
+seafood
+False
+2
+A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen $T$ make Mare a great choice for seafood lovers.
+cuisine
+True
+2
+I never had an $T$ before so I gave it a shot.
+orange donut
+True
+1
+they really provide a relaxing, laid-back $T$.
+atmosphere
+False
+2
+This particular location certainly uses substandard $T$.
+meats
+False
+0
+The $T$ was less than accomodating.
+Management
+False
+0
+The $T$ is also more laid-back and relaxed.
+ambience
+False
+2
+the $T$ are great and all the sweets are homemade.
+teas
+False
+2
+the teas are great and all the $T$ are homemade.
+sweets
+False
+2
+$T$ and the service are the best part in there
+mojitos
+False
+2
+mojitos and the $T$ are the best part in there
+service
+False
+2
+$T$, burgers and salads, like the lemon-dressed cobb, are classic successes.
+Sandwiches
+False
+2
+Sandwiches, $T$ and salads, like the lemon-dressed cobb, are classic successes.
+burgers
+False
+2
+Sandwiches, burgers and $T$, like the lemon-dressed cobb, are classic successes.
+salads
+False
+2
+Sandwiches, burgers and salads, like the $T$, are classic successes.
+lemon-dressed cobb
+False
+2
+The $T$ is very intimate and romantic.
+design
+False
+2
+The $T$ was wonderful and imaginative.
+food
+False
+2
+The $T$ is very sharp and they look good too.
+staff
+False
+2
+The worst though was the $T$.
+taste
+False
+0
+The $T$ we tried was tasteless and burned and the mole sauce was way too sweet.
+fajita
+False
+0
+The fajita we tried was tasteless and burned and the $T$ was way too sweet.
+mole sauce
+False
+0
+Stay with the $T$ and you'll be fine.
+roasted chickens
+True
+2
+The $T$ is warm, comfortable, artsy and sexy.
+atmosphere
+False
+2
+The $T$ is great (big selection, reasonable prices) and the drinks are really good.
+food
+False
+2
+The food is great (big $T$, reasonable prices) and the drinks are really good.
+selection
+False
+2
+The food is great (big selection, reasonable $T$) and the drinks are really good.
+prices
+False
+2
+The food is great (big selection, reasonable prices) and the $T$ are really good.
+drinks
+False
+2
+The $T$ melted in my mouth.
+steak
+True
+2
+The food did take a few extra minutes to come, but the cute $T$' jokes and friendliness made up for it.
+waiters
+False
+2
+The $T$ did take a few extra minutes to come, but the cute waiters' jokes and friendliness made up for it.
+food
+True
+1
+Most importantly, it is reasonably $T$.
+priced
+False
+2
+The $T$ is excellent (I'm not used to having much choice at restaurants), and the atmosphere is great.
+selection of food
+False
+2
+The selection of food is excellent (I'm not used to having much choice at restaurants), and the $T$ is great.
+atmosphere
+False
+2
+Only suggestion is that you skip the $T$, it was overpriced and fell short on taste.
+dessert
+False
+0
+Only suggestion is that you skip the dessert, it was overpriced and fell short on $T$.
+taste
+False
+0
+$T$ was decent, but not great.
+Food
+False
+2
+i dont know what some people who rave about this $T$ are talking about.
+hot dog
+True
+0
+it is a hidden delight complete with a quaint $T$ and good food.
+bar
+False
+2
+it is a hidden delight complete with a quaint bar and good $T$.
+food
+False
+2
+The $T$ ALWAYS look angry and even ignore their high-tipping regulars.
+waiters
+False
+0
+the $T$ is very nice, and a welcome escape from the rest of the SI mall.
+atmosphere
+False
+2
+Yes, they're a bit more expensive then typical, but then again, so is their $T$.
+food
+False
+2
+I can say that the $T$, burgers and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.
+wraps
+False
+2
+I can say that the wraps, $T$ and salads were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.
+burgers
+False
+2
+I can say that the wraps, burgers and $T$ were all fresh, tasty and the mango margareta at $9 was WELL WORTH the money.
+salads
+False
+2
+I can say that the wraps, burgers and salads were all fresh, tasty and the $T$ at $9 was WELL WORTH the money.
+mango margareta
+False
+2
+Anywhere else, the $T$ would be 3x as high!
+prices
+True
+2
+The $T$ we experienced was friendly and good.
+service
+False
+2
+Our $T$ was friendly and it is a shame that he didnt have a supportive staff to work with.
+waiter
+False
+2
+Our waiter was friendly and it is a shame that he didnt have a supportive $T$ to work with.
+staff
+True
+0
+The $T$ I was seated at was uncomfortable.
+folding chair
+False
+0
+$T$ was among the best I have ever had in NYC.
+Service
+False
+2
+The $T$ was amazing.
+fettucino alfredo
+False
+2
+The $T$ was very good and I was pleasantly surprised to see so many vegan options.
+food
+False
+2
+The food was very good and I was pleasantly surprised to see so many $T$.
+vegan options
+False
+2
+I know real $T$ and this wasn't it.
+Indian food
+True
+0
+Be sure to try the $T$...Lamb Chops, Veal Chops, Rabbit, the potato gratin, on and on and on...
+Smoked Trout
+False
+2
+Be sure to try the Smoked Trout...$T$, Veal Chops, Rabbit, the potato gratin, on and on and on...
+Lamb Chops
+False
+2
+Be sure to try the Smoked Trout...Lamb Chops, $T$, Rabbit, the potato gratin, on and on and on...
+Veal Chops
+False
+2
+Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, $T$, the potato gratin, on and on and on...
+Rabbit
+False
+2
+Be sure to try the Smoked Trout...Lamb Chops, Veal Chops, Rabbit, the $T$, on and on and on...
+potato gratin
+False
+2
+Even when the $T$ is not in the house, the food and service are right on target.
+chef
+True
+1
+Even when the chef is not in the house, the $T$ and service are right on target.
+food
+False
+2
+Even when the chef is not in the house, the food and $T$ are right on target.
+service
+False
+2
+Everything from the $T$ to the mussels and even the hamburger were done well and very tasty.
+eggs benedict
+False
+2
+Everything from the eggs benedict to the $T$ and even the hamburger were done well and very tasty.
+mussels
+False
+2
+Everything from the eggs benedict to the mussels and even the $T$ were done well and very tasty.
+hamburger
+False
+2
+The $T$ were very professional, courteous and attentive.
+waiters
+False
+2
+The $T$ was rather over cooked and dried but the chicken was fine.
+falafal
+False
+0
+The falafal was rather over cooked and dried but the $T$ was fine.
+chicken
+False
+2
+I highly reccomend the $T$, it's insanely good.
+grand marnier shrimp
+False
+2
+We been there and we really enjoy the $T$, was areally great $T$, and the service was really good.
+food
+False
+2
+We been there and we really enjoy the $T$, was areally great $T$, and the service was really good.
+food
+False
+2
+We been there and we really enjoy the food, was areally great food, and the $T$ was really good.
+service
+False
+2
+$T$ include flan and sopaipillas.
+Desserts
+True
+1
+Desserts include $T$ and sopaipillas.
+flan
+True
+1
+Desserts include flan and $T$.
+sopaipillas
+True
+1
+I was starving and the small $T$ were driving me crazy!
+portions
+False
+0
+The $T$ was loud and inconsiderate.
+wait staff
+False
+0
+However, the $T$ and service and dramatically lacking.
+food
+False
+0
+However, the food and $T$ and dramatically lacking.
+service
+False
+0
+The $T$ is cut in blocks bigger than my cell phone.
+sushi
+False
+0
+The $T$ is great, my soup always arrives nice and hot.
+service
+False
+2
+The service is great, my $T$ always arrives nice and hot.
+soup
+False
+2
+It had been awhile and I forgot just how delicious $T$ can be.
+crepes
+False
+2
+Montparnasse's $T$--especially the silken creme brulee and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.
+desserts
+False
+2
+Montparnasse's desserts--especially the silken $T$ and paper-thin apple tart--are good enough on their own to make the restaurant worth the trip.
+creme brulee
+False
+2
+Montparnasse's desserts--especially the silken creme brulee and paper-thin $T$--are good enough on their own to make the restaurant worth the trip.
+apple tart
+False
+2
+i had a delicious $T$.
+shrimp creole
+False
+2
+The $T$ was real good.
+chicken dinner
+False
+2
+Beware of the $T$ not unless you want to call the fire department to douse the flames in your mouth.
+chili signed food items
+True
+0
+The $T$ is designed in a contemporary Japanese style restaurant.
+decor
+True
+1
+but the $T$ was delicious.
+food
+False
+2
+Try the ribs, sizzling beef and couple it with $T$.
+coconut rice
+True
+2
+Try the $T$, sizzling beef and couple it with coconut rice.
+ribs
+False
+2
+Try the ribs, sizzling $T$ and couple it with coconut rice.
+beef
+False
+2
+The $T$ is a personal fave.
+avocado salad
+False
+2
+And, the $T$ are yummy!
+honey BBQ rib tips
+False
+2
+The BEST $T$ Uptown!
+Chinese food
+False
+2
+$T$ is known for bending over backwards to make everyone happy.
+Service
+False
+2
+The $T$ is very friendly.
+staff
+False
+2
+$T$ are very friendly and the pasta is out of this world.
+Waiters
+False
+2
+Waiters are very friendly and the $T$ is out of this world.
+pasta
+False
+2
+Great $T$ and great cocktail menu.
+wine list
+False
+2
+Great wine list and great $T$.
+cocktail menu
+False
+2
+The $T$ are delicious and the BBQ rib was perfect.
+crab cakes
+False
+2
+The crab cakes are delicious and the $T$ was perfect.
+BBQ rib
+False
+2
+The $T$ is wonderful, artfully done and simply delicious.
+food
+False
+2
+Tiny restaurant with very fast $T$.
+service
+False
+2
+My husband and I have been there at least 6 times and we've always been given the highest $T$ and often free desserts.
+service
+False
+2
+My husband and I have been there at least 6 times and we've always been given the highest service and often free $T$.
+desserts
+False
+2
+A beautiful $T$, perfect for drinks and/or appetizers.
+atmosphere
+False
+2
+A beautiful atmosphere, perfect for $T$ and/or appetizers.
+drinks
+False
+1
+A beautiful atmosphere, perfect for drinks and/or $T$.
+appetizers
+False
+1
+They make the best $T$ in New Jersey.
+pizza
+False
+2
+What a difference, the $T$ was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive beer list.
+service
+False
+2
+What a difference, the service was very comforting and the $T$ was better than average, but what really standed out was such a dynamic and extensive beer list.
+food
+False
+2
+What a difference, the service was very comforting and the food was better than average, but what really standed out was such a dynamic and extensive $T$.
+beer list
+False
+2
+Frankly, the $T$ here is something I can make better at home.
+chinese food
+True
+0
+There was only one $T$ for the whole restaurant upstairs.
+waiter
+True
+1
+We started with the $T$ and asparagus and also had the soft shell crab as well as the cheese plate.
+scallops
+True
+1
+We started with the scallops and $T$ and also had the soft shell crab as well as the cheese plate.
+asparagus
+True
+1
+We started with the scallops and asparagus and also had the $T$ as well as the cheese plate.
+soft shell crab
+True
+1
+We started with the scallops and asparagus and also had the soft shell crab as well as the $T$.
+cheese plate
+True
+1
+Not to be overlooked, the $T$ is excellent.
+service
+False
+2
+this without question is one of the worst $T$ i have ever had.
+hotdogs
+False
+0
+The $T$ is unbelievably friendly, and I dream about their Saag gosht...so good.
+staff
+False
+2
+The staff is unbelievably friendly, and I dream about their $T$...so good.
+Saag gosht
+False
+2
+I also recommend the $T$.
+garlic knots
+False
+2
+Best $T$ I have ever eaten.
+Indian food
+False
+2
+This place has the best $T$.
+pizza
+False
+2
+The $T$ which is sometimes a little too heavy for my taste.
+music
+False
+0
+The $T$ is excellent and always informative without an air.
+service
+False
+2
+The $T$ and staff go to great lengths to make you feel comfortable.
+owner
+True
+2
+The owner and $T$ go to great lengths to make you feel comfortable.
+staff
+True
+2
+The $T$ is always fresh and yummy and the menu is pretty varied.
+sushi
+False
+2
+The sushi is always fresh and yummy and the $T$ is pretty varied.
+menu
+False
+2
+The $T$ was great - sushi was good, but the cooked $T$ amazed us.
+food
+False
+2
+The food was great - $T$ was good, but the cooked food amazed us.
+sushi
+False
+2
+The food was great - sushi was good, but the $T$ amazed us.
+cooked food
+False
+2
+their $T$ are fantastic.
+dinner specials
+False
+2
+Great $T$, great drinks, nice dining atmosphere.
+food
+False
+2
+Great food, great $T$, nice dining atmosphere.
+drinks
+False
+2
+Great food, great drinks, nice $T$.
+dining atmosphere
+False
+2
+For the $T$ you pay for the food here, you'd expect it to be at least on par with other Japanese restaurants.
+price
+True
+0
+For the price you pay for the $T$ here, you'd expect it to be at least on par with other Japanese restaurants.
+food
+True
+0
+$T$ was SMALL and below average.
+Food portion
+False
+0
+Sit back in one of those comfortable $T$.
+chairs
+False
+2
+My favs here are the $T$ and the Tostada de Tinga...
+Tacos Pastor
+False
+2
+My favs here are the Tacos Pastor and the $T$...
+Tostada de Tinga
+False
+2
+The $T$ and the managers are really nice and the decor is very comfy and laid-back, all the while being trendy.
+bartenders
+False
+2
+The bartenders and the $T$ are really nice and the decor is very comfy and laid-back, all the while being trendy.
+managers
+False
+2
+The bartenders and the managers are really nice and the $T$ is very comfy and laid-back, all the while being trendy.
+decor
+False
+2
+For a savory take on the soup and sandwich meal, try the $T$.
+hot and sour soup
+False
+2
+For a savory take on the $T$, try the hot and sour soup.
+soup and sandwich meal
+False
+2
+This bar has it all - great $T$, cool atmosphere, excellent service and delicious food.
+drinks
+False
+2
+This bar has it all - great drinks, cool $T$, excellent service and delicious food.
+atmosphere
+False
+2
+This bar has it all - great drinks, cool atmosphere, excellent $T$ and delicious food.
+service
+False
+2
+This bar has it all - great drinks, cool atmosphere, excellent service and delicious $T$.
+food
+False
+2
+Also, the $T$ is divine.
+chick peas with shrimp (appetizer)
+False
+2
+Finally, I got sick of the bad $T$, obnoxious smirks, and snotty back talk.
+service
+False
+0
+We ordered $T$ which was perfectly cooked and tasted awesome.
+lamb
+False
+2
+i especially like their $T$.
+soft shell crab sandwich with fries
+False
+2
+if you're looking for authentic $T$, look no further.
+hong kong-style food
+False
+2
+good $T$ good wine that's it.
+food
+False
+2
+good food good $T$ that's it.
+wine
+False
+2
+The $T$ was extremely friendly and pleasant.
+staff
+False
+2
+While their $T$ is delicious, their Sushi is out of this world.
+kitchen food
+False
+2
+While their kitchen food is delicious, their $T$ is out of this world.
+Sushi
+False
+2
+everything is scrumptious, from the excellent $T$ by cute waitresses, to the extremely lush atmosphere.
+service
+False
+2
+everything is scrumptious, from the excellent service by cute $T$, to the extremely lush atmosphere.
+waitresses
+False
+2
+everything is scrumptious, from the excellent service by cute waitresses, to the extremely lush $T$.
+atmosphere
+False
+2
+It's traditional, simple $T$.
+italian food
+False
+2
+The $T$ is all-around good, with the rolls usually excellent and the sushi/sashimi not quite on the same level.
+food
+False
+2
+The food is all-around good, with the $T$ usually excellent and the sushi/sashimi not quite on the same level.
+rolls
+False
+2
+The food is all-around good, with the rolls usually excellent and the $T$ not quite on the same level.
+sushi/sashimi
+True
+1
+(The $T$ is cut a little thinly.
+sashimi
+False
+0
+Could have had better for 1/3 the $T$ in Chinatown.
+price
+True
+0
+In addition to great $T$, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.
+hot dogs
+False
+2
+In addition to great hot dogs, DOTP has wonderful $T$ that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.
+breakfast sandwiches
+False
+2
+In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like $T$ and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.
+tator tots
+False
+2
+In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and $T$, a delicious NJ-based pork product know to us Jersey girls and boys as Taylor ham.
+English muffins
+False
+2
+In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based pork product know to us Jersey girls and boys as $T$.
+Taylor ham
+True
+2
+In addition to great hot dogs, DOTP has wonderful breakfast sandwiches that feature, in addition to great things like tator tots and English muffins, a delicious NJ-based $T$ know to us Jersey girls and boys as Taylor ham.
+pork product
+False
+2
+Well, it happened because of a graceless $T$ and a rude bartender who had us waiting 20 minutes for drinks, and then tells us to chill out.
+manager
+False
+0
+Well, it happened because of a graceless manager and a rude $T$ who had us waiting 20 minutes for drinks, and then tells us to chill out.
+bartender
+False
+0
+Well, it happened because of a graceless manager and a rude bartender who had us waiting 20 minutes for $T$, and then tells us to chill out.
+drinks
+False
+1
+Well, it happened because of a graceless manager and a rude bartender who had us $T$ 20 minutes for drinks, and then tells us to chill out.
+waiting
+False
+0
+Not only is the $T$ great, but forming conversation around a table is so easy beacuse the atmosphere can be both romantic and comfortable.
+service
+False
+2
+Not only is the service great, but forming conversation around a table is so easy beacuse the $T$ can be both romantic and comfortable.
+atmosphere
+False
+2
+When the dish arrived it was blazing with $T$, definitely not edible by a human.
+green chillis
+False
+0
+When the $T$ arrived it was blazing with green chillis, definitely not edible by a human.
+dish
+False
+0
+The absolute worst $T$ I've ever experienced and the food was below average (when they actually gave people the meals they ordered).
+service
+False
+0
+The absolute worst service I've ever experienced and the $T$ was below average (when they actually gave people the meals they ordered).
+food
+False
+0
+The absolute worst service I've ever experienced and the food was below average (when they actually gave people the $T$ they ordered).
+meals
+True
+1
+It's about $7 for $T$ and they have take-out or dine-in.
+lunch
+True
+1
+It's about $7 for lunch and they have $T$ or dine-in.
+take-out
+True
+1
+It's about $7 for lunch and they have take-out or $T$.
+dine-in
+True
+1
+Be sure to accompany your $T$ with one of their fresh juice concoctions.
+food
+True
+1
+Be sure to accompany your food with one of their $T$.
+fresh juice concoctions
+False
+2
+The $T$ is great and the prices are reasonable.
+food
+False
+2
+The food is great and the $T$ are reasonable.
+prices
+False
+2
+The $T$ is clean, and if you like soul food, then this is the $T$ to be!
+place
+False
+2
+The place is clean, and if you like $T$, then this is the place to be!
+soul food
+False
+2
+I had $T$ and a salad.
+roast chicken
+True
+1
+I had roast chicken and a $T$.
+salad
+True
+1
+They have a very good $T$ and good tuna as well.
+chicken with avocado
+False
+2
+They have a very good chicken with avocado and good $T$ as well.
+tuna
+False
+2
+But the $T$ were terrible.
+meals
+False
+0
+My $T$ was completely dried out and on the cold side and the sauce was not very flavorful.
+chicken
+False
+0
+My chicken was completely dried out and on the cold side and the $T$ was not very flavorful.
+sauce
+False
+0
+$T$ - have you ever in your life heard of anything so ridiculously wonderful?
+Malted Milk Ball Gelato
+False
+2
+Way too much money for such a terrible $T$.
+meal
+False
+0
+However, the $T$ is absolutely horrible.
+service
+False
+0
+A con was the slow $T$.
+bar service
+False
+0
+$T$ was also to die for!
+Dessert
+False
+2
+BTW, the $T$ is very good .
+service
+False
+2
+It's eaten with $T$ and shredded ginger.
+black vinegar
+True
+1
+It's eaten with black vinegar and $T$.
+shredded ginger
+True
+1
+The unattractive $T$ made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.
+lighting
+False
+0
+The unattractive lighting made me want to gag, the $T$ was overpriced, there was the most awful disco pop duo performing-and my escargot looked like it might crawl off the plate.
+food
+False
+0
+The unattractive lighting made me want to gag, the food was overpriced, there was the most awful $T$ performing-and my escargot looked like it might crawl off the plate.
+disco pop duo
+False
+0
+The unattractive lighting made me want to gag, the food was overpriced, there was the most awful disco pop duo performing-and my $T$ looked like it might crawl off the plate.
+escargot
+True
+0
+it is a cozy $T$ to go with a couple of friends.
+place
+False
+2
+The $T$ is always great, and the owner walks around to make sure you enjoy.
+service
+False
+2
+The service is always great, and the $T$ walks around to make sure you enjoy.
+owner
+True
+2
+because the $T$ need SEVERE ATTITUE ADJUSTMENTS.
+waiters
+True
+0
+the $T$ is delicious and highly recommended.
+food
+False
+2
+When it came time to take the order the $T$ gave us a hard time, walked away then came back with a paper and pen for us to write down what we wanted...excuse me but isn't that his job???
+waiter
+True
+0
+Dieters stick to $T$ or indulge in vegetarian platters.
+salads
+True
+2
+Dieters stick to salads or indulge in $T$.
+vegetarian platters
+True
+2
+So for a filling and healthy $T$ give it a go.
+meal
+False
+2
+Since I cook for a living, I'm very fussy about the $T$ I eat in restaurants.
+food
+False
+1
+The $T$ was outstanding.
+service
+False
+2
+My friends and I stop here for $T$ before hitting the Kips Bay movie theater.
+pizza
+True
+1
+We always enjoy the $T$.
+pizza
+False
+2
+The $T$ is pretty good.
+service
+False
+2
+Yum, the $T$ is great here.
+chicken
+False
+2
+The $T$ here was great, a treat from beginning to end.
+food
+False
+2
+The $T$ and servers are personable and caring.
+host (owner)
+False
+2
+The host (owner) and $T$ are personable and caring.
+servers
+False
+2
+It's just everything...the $T$, the atmosphere...the incrediby kind and gracious hostess.
+food
+True
+2
+It's just everything...the food, the $T$...the incrediby kind and gracious hostess.
+atmosphere
+True
+2
+It's just everything...the food, the atmosphere...the incrediby kind and gracious $T$.
+hostess
+False
+2
+The $T$ is very good and the service is great.
+food
+False
+2
+The food is very good and the $T$ is great.
+service
+False
+2
+I usually get one the $T$.
+Vietnamese Beef Noodle Soup
+True
+1
+We were wondering why they were there to make our $T$ miserable?
+dining experience
+False
+0
+This place has the best $T$ in New York, hands down.
+Indian food
+False
+2
+The $T$ are very friendly and helpful and if you frequent they will remember you.
+waiters
+False
+2
+Intimate but charming $T$ with extremely friendly and attentive service.
+interior
+False
+2
+Intimate but charming interior with extremely friendly and attentive $T$.
+service
+False
+2
+The $T$ was as creative as the decor and both worked.
+food
+False
+2
+The food was as creative as the $T$ and both worked.
+decor
+False
+2
+The $T$ is great, with a good selection, and everything that I have tried is absolutely delicious.
+menu
+False
+2
+The menu is great, with a good $T$, and everything that I have tried is absolutely delicious.
+selection
+False
+2
+The $T$ is zesty and flavorful and the crust is nice and crispy.
+sauce
+False
+2
+The sauce is zesty and flavorful and the $T$ is nice and crispy.
+crust
+False
+2
+This place has the best $T$ in the city.
+sushi
+False
+2
+They have an excellent $T$ (the rolls with crab are really great).
+selection
+False
+2
+They have an excellent selection (the $T$ are really great).
+rolls with crab
+False
+2
+Everyone who works there (the $T$, the bartender, the servers) is so helpful.
+host
+False
+2
+Everyone who works there (the host, the $T$, the servers) is so helpful.
+bartender
+False
+2
+Everyone who works there (the host, the bartender, the $T$) is so helpful.
+servers
+False
+2
+And the $T$ is fantastic.
+food
+False
+2
+Favourites include: $T$ and the lamb.
+potato spinach gnocchi
+False
+2
+Favourites include: potato spinach gnocchi and the $T$.
+lamb
+False
+2
+Unfortunately, we chose this spot for $T$ as we had done a lot of walking and ended up at the South St Seaport.
+lunch
+True
+1
+But regulars know that the $T$ are the real star here.
+sandwiches
+False
+2
+The skillfully chosen Portuguese cheese cart paired with quality $T$ provides the perfect Iberian ending.
+port
+False
+2
+The skillfully chosen $T$ paired with quality port provides the perfect Iberian ending.
+Portuguese cheese cart
+False
+2
+My friend had a $T$ and I had these wonderful blueberry pancakes.
+burger
+True
+1
+My friend had a burger and I had these wonderful $T$.
+blueberry pancakes
+False
+2
+We were so happy with our $T$ and were even more thrilled when we saw the bill.
+food
+False
+2
+We were so happy with our food and were even more thrilled when we saw the $T$.
+bill
+False
+2
+All $T$ are so fresh you'd think they had their own vegetable garden and the crust is so perfect, that one actually thinks of how it was made.
+toppings
+False
+2
+All toppings are so fresh you'd think they had their own vegetable garden and the $T$ is so perfect, that one actually thinks of how it was made.
+crust
+False
+2
+We've always gotten amazing $T$ and we love the food.
+service
+False
+2
+We've always gotten amazing service and we love the $T$.
+food
+False
+2
+The $T$ is solicitous and friendly and always seems glad to see us, and the food is wonderful, if not stunningly creative.
+waitstaff
+False
+2
+The waitstaff is solicitous and friendly and always seems glad to see us, and the $T$ is wonderful, if not stunningly creative.
+food
+False
+2
+I'm in love with the $T$!
+lobster ravioli
+False
+2
+We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our $T$.
+meal
+False
+2
+$T$ is excellent, no wait, and you get a lot for the price.
+Service
+False
+2
+Service is excellent, no wait, and you get a lot for the $T$.
+price
+True
+2
+Service is excellent, no $T$, and you get a lot for the price.
+wait
+False
+2
+I thought the $T$ isn't cheap at all compared to Chinatown.
+food
+False
+0
+$T$ is a better deal than overpriced Cosi sandwiches.
+Coffee
+False
+2
+Coffee is a better deal than overpriced $T$.
+Cosi sandwiches
+False
+0
+We didn't know if we should order a $T$ or leave?
+drink
+True
+1
+) It's not the best Japanese restaurant in the East Village, but it's a pretty solid one for its modest $T$, and worth repeat visits.
+prices
+False
+2
+The $T$ is so good and so popular that waiting can really be a nightmare.
+food
+False
+2
+The food is so good and so popular that $T$ can really be a nightmare.
+waiting
+False
+0
+First walking in the $T$ seemed to have great ambience.
+place
+True
+2
+First walking in the place seemed to have great $T$.
+ambience
+False
+2
+I went to Kitchenette this weekend for $T$.
+brunch
+True
+1
+Even for two very hungry people there is plenty of $T$ left to be taken home (it reheats really well also).
+food
+False
+2
+Then they somehow made a dry and burnt $T$, around a raw and cold inside.
+crust
+False
+0
+It's just good $T$, nothing more and that's all we want!
+food
+False
+2
+Average $T$ thats been courted by a LOT of hype.
+cake
+False
+0
+My wife and I recently visited the bistro for $T$ and had a wonderful experience.
+dinner
+False
+1
+THE $T$ IS PERFECT TOO  NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT
+SERVICE
+False
+2
+The $72 $T$ had to be sent back because it was not cooked to order.
+Delmonico steak
+False
+0
+Everytime I go there I can't pick anything to eat and not because the $T$ is filled with great things to eat.
+menu
+True
+0
+Half a chicken with a mountain of $T$ and beans for $6.25.
+rice
+True
+1
+Half a chicken with a mountain of rice and $T$ for $6.25.
+beans
+True
+1
+Half a $T$ with a mountain of rice and beans for $6.25.
+chicken
+True
+1
+The $T$ is really fast and friendly, and the value is great.
+service
+False
+2
+The service is really fast and friendly, and the $T$ is great.
+value
+False
+2
+We were very impressed with the $T$ and value.
+food
+False
+2
+We were very impressed with the food and $T$.
+value
+False
+2
+You must try the $T$!
+garlic soup
+False
+2
+Casablanca servces delicious $T$, tabouleh, humus and other Mediterranean delights, which are all very inexpensive.
+falafel
+False
+2
+Casablanca servces delicious falafel, $T$, humus and other Mediterranean delights, which are all very inexpensive.
+tabouleh
+False
+2
+Casablanca servces delicious falafel, tabouleh, $T$ and other Mediterranean delights, which are all very inexpensive.
+humus
+False
+2
+Casablanca servces delicious falafel, tabouleh, humus and other $T$, which are all very inexpensive.
+Mediterranean delights
+False
+2
+The $T$ are made fresh, crispy, and ready to serve.
+pizza's
+False
+2
+$T$ is accomodating make sure you are satified.
+Staff
+False
+2
+$T$ Waldy's always measures up.
+Chef
+True
+2
+Reasonably priced with very fresh $T$.
+sushi
+False
+2
+Reasonably $T$ with very fresh sushi.
+priced
+False
+2
+Go for the $T$.
+Seafood Paella for two
+True
+2
+All of the $T$ are good and the Sangria is very good.
+apetizers
+False
+2
+All of the apetizers are good and the $T$ is very good.
+Sangria
+False
+2
+The one positive thing I can say is that the $T$ was prompt, we got seated right away and the server was very friendly.
+service
+False
+2
+The one positive thing I can say is that the service was prompt, we got seated right away and the $T$ was very friendly.
+server
+False
+2
+The $T$ greeted me warmly at the door and I was seated promptly and the food was excellent.
+staff
+False
+2
+The staff greeted me warmly at the door and I was seated promptly and the $T$ was excellent.
+food
+False
+2
+$T$ is usually pretty good.
+Service
+False
+2
+$T$ and $T$ess was quite rude.
+Host
+False
+0
+Host and $T$ was quite rude.
+Hostess
+False
+0
+the $T$ is very friendly, if your not rude or picky.......our meal at Leon last weekend was great -.
+wait staff
+False
+2
+the wait staff is very friendly, if your not rude or picky.......our $T$ at Leon last weekend was great -.
+meal
+False
+2
+I recommend any of their $T$......
+salmon dishes
+False
+2
+The $T$ was sweet and luscious.
+foie gras
+False
+2
+The $T$, which changes seasonally, shows both regional and international influences.
+menu
+False
+1
+but their $T$ was YUMMY!
+mac cheese
+False
+2
+their $T$ had something for everyone.
+brunch menu
+True
+2
+$T$ had a nice voice + she made us all get up to dance to shake some cals to eat some more.
+jazz singer
+False
+2
+They have very quick $T$ which is great when you don't have much time.
+service
+False
+2
+The $T$ is average: breakfast $T$, soups, salads, sandwiches, etc.
+food
+False
+1
+The food is average: $T$, soups, salads, sandwiches, etc.
+breakfast food
+False
+1
+The food is average: breakfast food, $T$, salads, sandwiches, etc.
+soups
+False
+1
+The food is average: breakfast food, soups, $T$, sandwiches, etc.
+salads
+False
+1
+The food is average: breakfast food, soups, salads, $T$, etc.
+sandwiches
+False
+1
+I WAS HIGHLY DISAPPOINTED BY THE $T$.
+FOOD
+False
+0
+THE $T$ THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.
+BANANA PUDDING
+True
+0
+THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE $T$ ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY MAC AND CHEESE.
+CRABCAKES
+False
+0
+THE BANANA PUDDING THEY SERVE HAS NEVER SEEN AN OVEN,THE CRABCAKES ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY $T$.
+MAC AND CHEESE
+False
+0
+The $T$ is arrogant, the prices are way high for Brooklyn.
+staff
+False
+0
+The staff is arrogant, the $T$ are way high for Brooklyn.
+prices
+False
+0
+the $T$ is prompt friendly.
+service
+False
+2
+This is literally a hot spot when it comes to the $T$.
+food
+False
+2
+The $T$ is very cool and chill...
+downstairs bar scene
+False
+2
+The $T$ was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 drinks, $100/person)...
+food
+False
+2
+The food was definitely good, but when all was said and done, I just couldn't justify it for the $T$ (including 2 drinks, $100/person)...
+price
+True
+0
+The food was definitely good, but when all was said and done, I just couldn't justify it for the price (including 2 $T$, $100/person)...
+drinks
+True
+1
+I've come here for $T$ as well as for a friend's birthday and I always enjoy myself.
+casual lunches
+True
+1
+If you are a $T$ fan you will not be disappointed.
+Tequila
+False
+2
+Great $T$ too, something like 50 beers.
+beer selection
+False
+2
+Great beer selection too, something like 50 $T$.
+beers
+False
+1
+Not to sound too negative but be wary of the $T$.
+delivary
+False
+0
+I found the $T$ to be just as good as its owner, Da Silvano, just much less expensive.
+food
+False
+2
+I found the food to be just as good as its $T$, Da Silvano, just much less expensive.
+owner
+False
+2
+They have $T$ of all kinds -- I recommend the gnocchi -- yum!
+homemade pastas
+True
+2
+They have homemade pastas of all kinds -- I recommend the $T$ -- yum!
+gnocchi
+False
+2
+My $T$ was burnt, and infused totally in a burnt flavor.
+vegetable risotto
+False
+0
+My vegetable risotto was burnt, and infused totally in a burnt $T$.
+flavor
+False
+0
+The main draw of this place is the $T$.
+price
+False
+2
+How can hope to stay in business with $T$ like this?
+service
+True
+0
+But $T$ here is never disappointing, even if the prices are a bit over the top.
+dinner
+False
+2
+But dinner here is never disappointing, even if the $T$ are a bit over the top.
+prices
+False
+0
+Not only did they have amazing, $T$, soup, pizza etc, but their homemade sorbets are out of this world!
+sandwiches
+False
+2
+Not only did they have amazing, sandwiches, $T$, pizza etc, but their homemade sorbets are out of this world!
+soup
+False
+2
+Not only did they have amazing, sandwiches, soup, $T$ etc, but their homemade sorbets are out of this world!
+pizza
+False
+2
+Not only did they have amazing, sandwiches, soup, pizza etc, but their $T$ are out of this world!
+homemade sorbets
+False
+2
+the $T$, the unbelievable entree, and thee most amazing deserts.
+homemade Guacamole
+False
+2
+the homemade Guacamole, the unbelievable $T$, and thee most amazing deserts.
+entree
+False
+2
+the homemade Guacamole, the unbelievable entree, and thee most amazing $T$.
+deserts
+False
+2
+The $T$ is reasonably priced and fresh.
+sushi
+False
+2
+The sushi is reasonably $T$ and fresh.
+priced
+False
+2
+Save room for $T$ - they're to die for.
+deserts
+False
+2
+Best things to order are from the $T$ (Churrasco and Ribs).
+grill
+True
+2
+Best things to order are from the grill ($T$ and Ribs).
+Churrasco
+True
+2
+Best things to order are from the grill (Churrasco and $T$).
+Ribs
+True
+2
+The $T$ are great - cheap and served in a cozy setting.
+traditional Italian items
+False
+2
+The traditional Italian items are great - cheap and served in a cozy $T$.
+setting
+False
+2
+The traditional Italian items are great - cheap and $T$ in a cozy setting.
+served
+True
+2
+Whether your choose the $T$ or the hot white mocha you are sure to be extremely happy.
+iced blended mocha
+True
+2
+Whether your choose the iced blended mocha or the $T$ you are sure to be extremely happy.
+hot white mocha
+True
+2
+last Tuesday for a $T$ with a friend.
+late lunch
+True
+1
+Another friend had to ask 3 times for $T$.
+parmesan cheese
+True
+1
+Our $T$ had apparently never tried any of the food, and there was no one to recommend any wine.
+waitress
+True
+0
+Our waitress had apparently never tried any of the $T$, and there was no one to recommend any wine.
+food
+True
+1
+Our waitress had apparently never tried any of the food, and there was no one to recommend any $T$.
+wine
+True
+1
+The $T$ was a bit slow and the portions are a bit small so if you are hungry and in a rush, this is not the place for you.
+service
+False
+0
+The service was a bit slow and the $T$ are a bit small so if you are hungry and in a rush, this is not the place for you.
+portions
+False
+0
+The unfortunate lady next to us thought she had ordered a $T$ (including asking for $T$ dressing) and was instead given a quesedilla.
+salad
+True
+1
+The unfortunate lady next to us thought she had ordered a salad (including asking for $T$) and was instead given a quesedilla.
+salad dressing
+True
+1
+The unfortunate lady next to us thought she had ordered a salad (including asking for salad dressing) and was instead given a $T$.
+quesedilla
+True
+1
+El Nidos one of the best restaurants in New York which I've ever been to, has a great variety of tasty, mouth watering $T$.
+pizza's
+False
+2
+The $T$ was pretty poor all around, the food was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.
+service
+False
+0
+The service was pretty poor all around, the $T$ was well below average relative to the cost, and outside there is a crazy bum who harasses every customer who leaves the place.
+food
+False
+0
+The service was pretty poor all around, the food was well below average relative to the $T$, and outside there is a crazy bum who harasses every customer who leaves the place.
+cost
+True
+0
+Although I moved uptown I try to stop in as often as possible for the GREAT cheap $T$ and to pay the friendly staff a visit.
+food
+False
+2
+Although I moved uptown I try to stop in as often as possible for the GREAT cheap food and to pay the friendly $T$ a visit.
+staff
+False
+2
+I had to wait for my friend at the $T$ for a few minutes
+bar
+True
+1
+$T$ Vincenzo, always there if you need him, is a real talent and a real Roman.
+Chef
+False
+2
+If you're looking to taste some great $T$ and want good service, definitely visit Curry Leaf.
+Indian food
+False
+2
+If you're looking to taste some great Indian food and want good $T$, definitely visit Curry Leaf.
+service
+False
+2
+You must try $T$ or Rabbit stew; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).
+Odessa stew
+False
+2
+You must try Odessa stew or $T$; salads-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).
+Rabbit stew
+False
+2
+You must try Odessa stew or Rabbit stew; $T$-all good; and kompot is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).
+salads
+False
+2
+You must try Odessa stew or Rabbit stew; salads-all good; and $T$ is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).
+kompot
+False
+2
+My daughter and I left feeling satisfied (not stuffed) and it felt good to know we had a healthy $T$.
+lunch
+False
+2
+When she complained, the $T$ said, Sorry.
+waitress
+True
+1
+The $T$ was on par with your local grocery store.
+quality of the meat
+False
+0
+They specialize in $T$ and fresh juices.
+smoothies
+True
+2
+They specialize in smoothies and $T$.
+fresh juices
+True
+2
+I recommend the $T$, it was the best dish of the evening.
+black roasted codfish
+False
+2
+I recommend the black roasted codfish, it was the best $T$ of the evening.
+dish
+False
+2
+The manager then told us we could order from whatever menu we wanted but by that time we were so annoyed with the $T$ and the resturant that we let and went some place else.
+waiter
+False
+0
+The manager then told us we could order from whatever $T$ we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.
+menu
+True
+1
+The $T$ then told us we could order from whatever menu we wanted but by that time we were so annoyed with the waiter and the resturant that we let and went some place else.
+manager
+True
+1
+In mi burrito, here was nothing but dark chicken that had that cooked last week and just warmed up in a microwave $T$.
+taste
+False
+0
+In mi burrito, here was nothing but dark $T$ that had that cooked last week and just warmed up in a microwave taste.
+chicken
+False
+0
+during busy hrs, i recommend that you make a $T$.
+reservation
+False
+1
+I went to Common Stock for $T$ and I was so impressed.
+brunch
+False
+1
+now called nikki $T$, $T$ is OK.
+sushi
+False
+1
+The $T$ is also outstanding and is served quite quickly.
+food
+False
+2
+The food is also outstanding and is $T$ quite quickly.
+served
+False
+2
+From the $T$ to the mostarda on the cheese plate, the dishes at this restaurant are all handled with delicate care.
+erbazzone emiliana
+True
+2
+From the erbazzone emiliana to the $T$, the dishes at this restaurant are all handled with delicate care.
+mostarda on the cheese plate
+True
+2
+From the erbazzone emiliana to the mostarda on the cheese plate, the $T$ at this restaurant are all handled with delicate care.
+dishes
+True
+2
+The $T$ is delicious and the bar has a great vibe.
+food
+False
+2
+The food is delicious and the $T$ has a great vibe.
+bar
+False
+2
+The food is delicious and the bar has a great $T$.
+vibe
+False
+2
+There's $T$ and music.
+candlelight
+True
+1
+There's candlelight and $T$.
+music
+True
+1
+Simple healthy unglamorous $T$ cheap.
+food
+False
+2
+It was such a fantastic $T$, that I returned again the same week.
+dining experience
+False
+2
+To be fair, the $T$ still is good and the service is quick and attentative even though its usually very busy.
+food
+False
+2
+To be fair, the food still is good and the $T$ is quick and attentative even though its usually very busy.
+service
+False
+2
+The $T$ is absolutely adorable and the food is delicious.
+place
+False
+2
+The place is absolutely adorable and the $T$ is delicious.
+food
+False
+2
+I ordered the $T$ and my husband got Garlic Shrimp.
+Chicken Teriyaki
+True
+1
+I ordered the Chicken Teriyaki and my husband got $T$.
+Garlic Shrimp
+True
+1
+I've had better $T$ at a mall food court.
+Japanese food
+False
+0
+The $T$ are extremely friendly and even replaced my drink once when I dropped it outside.
+staff members
+False
+2
+The staff members are extremely friendly and even replaced my $T$ once when I dropped it outside.
+drink
+True
+1
+Cool $T$ but such a let down.
+atmosphere
+False
+2
+The $T$ are big enough to appease most people, but I didn't like the fact they used artifical lobster meat.
+Sashimi portion
+False
+2
+The Sashimi portion are big enough to appease most people, but I didn't like the fact they used $T$.
+artifical lobster meat
+False
+0
+They have $T$ made with really fresh and yummy ingredients.
+wheat crusted pizza
+True
+2
+They have wheat crusted pizza made with really fresh and yummy $T$.
+ingredients
+False
+2
+Had a lovely $T$ in this dedicated seafood joint, food was well-prepared and -presented and the service was pleasant and prompt.
+dinner
+False
+2
+Had a lovely dinner in this dedicated sea$T$ joint, $T$ was well-prepared and -presented and the service was pleasant and prompt.
+food
+False
+2
+Had a lovely dinner in this dedicated seafood joint, food was well-prepared and -presented and the $T$ was pleasant and prompt.
+service
+False
+2
+the icing MADE this $T$, it was fluffy, not ultra sweet, creamy and light.
+cake
+False
+2
+Finally let into the store 5 at a time, to buy expensive slices from a harried $T$.
+staff
+False
+0
+Finally let into the store 5 at a time, to buy expensive $T$ from a harried staff.
+slices
+False
+0
+We ended up having to just leave because we were essentially being ignored by the $T$--even though the rest of the restaurant was largely empty.
+wait staff
+False
+0
+The $T$ is extensive, well priced and covers alot of regions.
+wine list
+False
+2
+The wine list is extensive, well $T$ and covers alot of regions.
+priced
+False
+2
+Go here if you want fresh and tasty $T$ of any type you can imagine.
+salads
+False
+2
+Everything about this place is adorable - even the $T$!
+bathroom
+False
+2
+Speedy $T$, great food, decent prices, and friendly service combine to ensure an enjoyable repast.
+delivers
+False
+2
+Speedy delivers, great $T$, decent prices, and friendly service combine to ensure an enjoyable repast.
+food
+False
+2
+Speedy delivers, great food, decent $T$, and friendly service combine to ensure an enjoyable repast.
+prices
+False
+2
+Speedy delivers, great food, decent prices, and friendly $T$ combine to ensure an enjoyable repast.
+service
+False
+2
+Speedy delivers, great food, decent prices, and friendly service combine to ensure an enjoyable $T$.
+repast
+False
+2
+THEY HAVE $T$ ON THE SIDEWALK TRYING TO PULL YOU IN WHICH MADE US SUSPICIOUS.
+WAITERS
+True
+1
+IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC $T$.
+ITALIAN MEAL
+False
+1
+It took 100 years for Parisi to get around to making $T$ (at least I don't think they ever made it before this year)...but it was worth the wait.
+pizza
+False
+2
+I asked for a simple medium rare $T$.
+steak
+False
+1
+Generously garnished, $T$ are the most popular dish, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.
+organic grilled burgers
+False
+2
+Generously garnished, organic grilled burgers are the most popular $T$, but the Jerusalem market-style falafel wraps and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.
+dish
+False
+2
+Generously garnished, organic grilled burgers are the most popular dish, but the $T$ and Mediterranean salads--layered with beets, goat cheese and walnuts--are equally scrumptious.
+Jerusalem market-style falafel wraps
+False
+2
+Generously garnished, organic grilled burgers are the most popular dish, but the Jerusalem market-style falafel wraps and $T$--are equally scrumptious.
+Mediterranean salads--layered with beets, goat cheese and walnuts
+False
+2
+Probably my worst $T$ in new york, and I'm a former waiter so I know what I'm talking about.
+dining experience
+False
+0
+Probably my worst dining experience in new york, and I'm a former $T$ so I know what I'm talking about.
+waiter
+True
+1
+Result (red velvet): Great $T$, soft and velvety, nice hint of cocoa.
+texture
+False
+2
+Result (red velvet): Great texture, soft and velvety, nice $T$.
+hint of cocoa
+False
+2
+Ask for the $T$.
+round corner table next to the large window
+True
+2
+Their twist on pizza is heatlhy, but full of $T$.
+flavor
+False
+2
+Their $T$ is heatlhy, but full of flavor.
+twist on pizza
+False
+2
+The lack of $T$ and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.
+AC
+False
+0
+I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE $T$ from two sales people.
+service
+False
+0
+I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE service from two $T$.
+sales people
+False
+0
+Unfortunately, unless you live in the neighborhood, it's not in a convenient $T$ but is more like a hidden treasure.
+location
+False
+0
+Didn't seem like any effort was made to the $T$.
+display and quality of the food
+True
+0
+The $T$--though mostly deep-fried--is simple and satisfying.
+food
+False
+2
+Glechik might be way too tiny for a restaurant by Russian standards, but it is cozy and the $T$ is simply GREAT.
+food
+False
+2
+The $T$ was excellent - authentic Italian cuisine made absolutely fresh.
+food
+False
+2
+The food was excellent - authentic $T$ made absolutely fresh.
+Italian cuisine
+False
+2
+At night the $T$ changes turning into this hidden jewel that is waiting to be discovered.
+atmoshere
+False
+2
+The other times I've gone it's romantic date heaven, you can walk in get a $T$, be treated like a VIP in a not-crowded place, with great food and service.
+booth by the windows
+True
+1
+The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded $T$, with great food and service.
+place
+False
+2
+The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great $T$ and service.
+food
+False
+2
+The other times I've gone it's romantic date heaven, you can walk in get a booth by the windows, be treated like a VIP in a not-crowded place, with great food and $T$.
+service
+False
+2
+I would only go for the $T$ which is way better than Starbucks or the like.
+coffee
+False
+2
+Somewhat disappointing $T$ (only new vintages.
+wine list
+False
+0
+Somewhat disappointing wine list (only new $T$.
+vintages
+True
+0
+If your looking for nasty high $T$ food with a dash of ghetto scenery cheap BX A$$ this is the place to be!!
+priced
+False
+0
+If your looking for nasty high priced $T$ with a dash of ghetto scenery cheap BX A$$ this is the place to be!!
+food
+False
+0
+If your looking for nasty high priced food with a dash of ghetto $T$ cheap BX A$$ this is the place to be!!
+scenery
+True
+0
+$T$ is ok - at least better than big mac!
+new hamburger with special sauce
+False
+2
+new hamburger with special sauce is ok - at least better than $T$!
+big mac
+False
+0
+Perfectly al dente $T$, not drowned in sauce -- generous portions.
+pasta
+False
+2
+Perfectly al dente pasta, not drowned in $T$ -- generous portions.
+sauce
+False
+1
+Perfectly al dente pasta, not drowned in sauce -- generous $T$.
+portions
+False
+2
+I can understand the $T$ if it served better food, like some Chinese restaurants in midtown/uptown area.
+prices
+True
+0
+I can understand the prices if it served better $T$, like some Chinese restaurants in midtown/uptown area.
+food
+True
+0
+$T$ was awful - mostly because staff were overwhelmed on a Saturday night.
+Service
+False
+0
+Service was awful - mostly because $T$ were overwhelmed on a Saturday night.
+staff
+False
+0
+To the $T$; good job guys, this place is a keeper!
+owners
+False
+2
+and the $T$ is simply lovely and friendly.
+owner
+False
+2
+This little $T$ is wonderfully warm welcoming.
+place
+False
+2
+perfect for a quick $T$.
+meal
+False
+2
+Has the warmth of a family local yet it is a great $T$ to watch sporting events.
+place
+False
+2
+The $T$ was great, and they have a whole great deal for birthdays.
+service
+False
+2
+The $T$ is 100% Italian and the food is as authentic as it gets.
+staff
+True
+2
+The staff is 100% Italian and the $T$ is as authentic as it gets.
+food
+False
+2
+My only complaint might be the $T$ - I've never had a cookie predict bad luck for me before I visited Kar.
+fortune cookies
+False
+0
+My only complaint might be the fortune $T$s - I've never had a $T$ predict bad luck for me before I visited Kar.
+cookie
+True
+0
+Good for a quick $T$.
+sushi lunch
+False
+2
+Have a $T$ and sit in the back patio.
+mojito
+True
+2
+Have a mojito and sit in the $T$.
+back patio
+True
+2
+The $T$ was dreadfully slow (the place was only half full) and a smile would have been nice...
+service
+False
+0
+I went this past Saturday and had a excellent $T$ of consisting of a braised lamb shank with mashed potatoes.
+meal
+False
+2
+I went this past Saturday and had a excellent meal of consisting of a $T$.
+braised lamb shank with mashed potatoes
+True
+2
+The $T$ came by to pick up the soy sauce WHILE we were eating our lunch!!!!!
+waitress
+True
+0
+The waitress came by to pick up the $T$ WHILE we were eating our lunch!!!!!
+soy sauce
+True
+1
+The waitress came by to pick up the soy sauce WHILE we were eating our $T$!!!!!
+lunch
+True
+1
+So we sat at the $T$, the $T$tender didn't seem like he wanted to be there.
+bar
+True
+1
+So we sat at the bar, the $T$ didn't seem like he wanted to be there.
+bartender
+True
+0
+I reccomend the $T$, the orange chicken/beef, and the fried rice.
+fried pork dumplings
+False
+2
+I reccomend the fried pork dumplings, the $T$, and the fried rice.
+orange chicken/beef
+False
+2
+I reccomend the fried pork dumplings, the orange chicken/beef, and the $T$.
+fried rice
+False
+2
+You will not be dissapointed by any of the choices in the $T$.
+menu
+False
+2
+The $T$ were terrific!
+french fries -- with the kalmata dip
+False
+2
+Would you ever believe that when you complain about over an hour $T$, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the drinks you just paid for?
+wait
+True
+0
+Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the $T$ tells the bartender to spill the drinks you just paid for?
+manager
+True
+0
+Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the $T$ to spill the drinks you just paid for?
+bartender
+True
+1
+Would you ever believe that when you complain about over an hour wait, when they tell you it will be 20-30 minutes, the manager tells the bartender to spill the $T$ you just paid for?
+drinks
+True
+1
+The $T$ covers a wide variety without being imposeing.
+boutique selection of wines
+False
+1
+They also have a great $T$ if your not in the mood for traditional Mediterranean fare.
+assortment of wraps
+False
+2
+They also have a great assortment of wraps if your not in the mood for $T$.
+traditional Mediterranean fare
+False
+1
+$T$, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+Fresh veggies
+False
+2
+Fresh veggies, all sorts of $T$, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+middle eastern spreads
+False
+2
+Fresh veggies, all sorts of middle eastern spreads, $T$ and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, $T$ baclava... soooo much fooood, and all of it delicious.
+cheese
+False
+2
+Fresh veggies, all sorts of middle eastern spreads, cheese and $T$, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+falafel
+False
+2
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, $T$, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+soup
+False
+2
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, $T$, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+fish
+False
+2
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, $T$, root vegetables, a $T$ medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+rice
+False
+2
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, $T$, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+root vegetables
+False
+2
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a $T$, some spinach thing, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+rice medley
+False
+2
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some $T$, lamb kebabs, cheese baclava... soooo much fooood, and all of it delicious.
+spinach thing
+False
+2
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, $T$, cheese baclava... soooo much fooood, and all of it delicious.
+lamb kebabs
+False
+2
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, $T$... soooo much fooood, and all of it delicious.
+cheese baclava
+False
+2
+Fresh veggies, all sorts of middle eastern spreads, cheese and falafel, soup, fish, rice, root vegetables, a rice medley, some spinach thing, lamb kebabs, cheese baclava... soooo much $T$, and all of it delicious.
+fooood
+False
+2
+Disappointingly, their wonderful $T$ has been taken off the bar menu.
+Saketini
+False
+2
+Disappointingly, their wonderful Saketini has been taken off the $T$.
+bar menu
+False
+0
+In Short The Black Sheep distinguishes itself from the Midtown pub herd with a $T$ that's a mix of sports-bar butch and ornate kitsch.
+look
+True
+0
+I would definitely go back -- if only for some of those exotic $T$ on the blackboard.
+martinis
+False
+2
+then she made a fuss about not being able to add 1 or 2 $T$ on either end of the table for additional people.
+chairs
+True
+1
+then she made a fuss about not being able to add 1 or 2 chairs on either end of the $T$ for additional people.
+table
+True
+1
+The $T$ is so cheap, but that does not reflect the service or the atmosphere.
+happy hour
+False
+2
+The happy hour is so cheap, but that does not reflect the $T$ or the atmosphere.
+service
+True
+2
+The happy hour is so cheap, but that does not reflect the service or the $T$.
+atmosphere
+True
+2
+After waiting for almost an hour, the $T$ brusquely told us he'd forgotten to give the kitchen our order.
+waiter
+False
+0
+After waiting for almost an hour, the waiter brusquely told us he'd forgotten to give the $T$ our order.
+kitchen
+True
+1
+After $T$ for almost an hour, the waiter brusquely told us he'd forgotten to give the kitchen our order.
+waiting
+True
+0
+With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in $T$ and atmosphere.
+quaility
+False
+2
+With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in quaility and $T$.
+atmosphere
+False
+2
+A mix of students and area residents crowd into this narrow, barely there $T$ for its quick, tasty treats at dirt-cheap prices.
+space
+False
+0
+A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap $T$.
+prices
+False
+2
+A mix of students and area residents crowd into this narrow, barely there space for its quick, tasty $T$ at dirt-cheap prices.
+treats
+False
+2
+Give it a try, $T$ is typical French but varied.
+menu
+False
+1
+It gets crowded at lunchtime but there are lots of $T$ in back and everyone who works there is so nice.
+seats
+False
+2
+but for the $T$, it was a great affordable spot to enjoy a fun night out with small group.
+value
+True
+2
+the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive attitude about the proper way to treat their customers and deliver top quality $T$.
+food
+False
+2
+the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive $T$ about the proper way to treat their customers and deliver top quality food.
+attitude
+False
+2
+We ordered a $T$ and were finished eating and paying before the wine came.
+glass of wine
+True
+1
+It was good, but none of the $T$ WOW.
+flavors
+True
+1
+Overall, this is a nice $T$ to take a few friends to hang out at and the service is excellent.
+place
+False
+2
+Overall, this is a nice place to take a few friends to hang out at and the $T$ is excellent.
+service
+False
+2
+$T$ is excellent quality for a good restaurant price.
+Food
+False
+2
+Food is excellent quality for a good restaurant $T$.
+price
+False
+2
+for about eleven bucks you get a gigantic $T$ (or tacos), margarita, and dessert.
+burrito
+False
+2
+for about eleven bucks you get a gigantic burrito (or $T$), margarita, and dessert.
+tacos
+False
+2
+for about eleven bucks you get a gigantic burrito (or tacos), $T$, and dessert.
+margarita
+True
+1
+for about eleven bucks you get a gigantic burrito (or tacos), margarita, and $T$.
+dessert
+True
+1
+The $T$ is traditional in feel.
+space
+False
+1
+the restaurant was completely empty, but she gave me a dirty look and asked, no $T$?
+reservations
+True
+1
+the $T$ was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.
+food
+False
+0
+the food was mediocre to be kind - the $T$ is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.
+interior
+False
+0
+the food was mediocre to be kind - the interior is small and average - the $T$ are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst dining.
+owners
+False
+0
+the food was mediocre to be kind - the interior is small and average - the owners are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst $T$.
+dining
+True
+1
+Good $T$, great food, good value, and never have to wait in line!
+service
+False
+2
+Good service, great $T$, good value, and never have to wait in line!
+food
+False
+2
+Good service, great food, good $T$, and never have to wait in line!
+value
+False
+2
+Good service, great food, good value, and never have to $T$ in line!
+wait
+False
+2
+Offerings like hot cakes and the $T$ are available for breakfast.
+Egg McMuffin sandwich
+False
+1
+Offerings like $T$ and the Egg McMuffin sandwich are available for breakfast.
+hot cakes
+False
+1
+Offerings like hot cakes and the Egg McMuffin sandwich are available for $T$.
+breakfast
+True
+1
+I have been going to this restaurant for years, in the past the $T$ was average and the food inconsistant.
+service
+False
+1
+I have been going to this restaurant for years, in the past the service was average and the $T$ inconsistant.
+food
+False
+0
+The $T$ was fascinating, but left room for conversation, and the bartender made superb drinks.
+music
+False
+2
+The music was fascinating, but left room for conversation, and the $T$ made superb drinks.
+bartender
+False
+2
+The music was fascinating, but left room for conversation, and the bartender made superb $T$.
+drinks
+False
+2
+$T$ and noodle dishes rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!
+rice dishes
+True
+2
+rice dishes and $T$ rarely exceed $5 and add on a refreshing ice drink for $2 and you're set for the night!
+noodle dishes
+True
+2
+rice dishes and noodle dishes rarely exceed $5 and add on a refreshing $T$ for $2 and you're set for the night!
+ice drink
+False
+2
+$T$ is billed as asian fusion - doesn't meet the bill.
+Cuisine
+True
+0
+Cuisine is $T$ed as asian fusion - doesn't meet the $T$.
+bill
+True
+0
+Cuisine is billed as $T$ - doesn't meet the bill.
+asian fusion
+True
+1
+Cuisine is $T$ as asian fusion - doesn't meet the bill.
+billed
+True
+0
+Creative $T$ like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.
+dishes
+False
+2
+Creative dishes like $T$ and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable bistro menu.
+king crab salad with passion fruit vinaigrette
+False
+2
+Creative dishes like king crab salad with passion fruit vinaigrette and $T$ are unexpected elements on an otherwise predictable bistro menu.
+fettuccine with grilled seafood in a rosemary-orange sauce
+False
+2
+Creative dishes like king crab salad with passion fruit vinaigrette and fettuccine with grilled seafood in a rosemary-orange sauce are unexpected elements on an otherwise predictable $T$.
+bistro menu
+False
+1
+$T$ denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.
+Dishes
+False
+2
+Dishes denoted as $T$ (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.
+"Roy's Classics"
+True
+2
+Dishes denoted as "Roy's Classics" (marked on the $T$ with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.
+menu
+True
+1
+Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true $T$, such as macadamia-crusted mahi mahi, or subtly sweet honey-mustard beef short ribs.
+recipes
+False
+2
+Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as $T$, or subtly sweet honey-mustard beef short ribs.
+macadamia-crusted mahi mahi
+False
+2
+Dishes denoted as "Roy's Classics" (marked on the menu with asterisks) are tried-and-true recipes, such as macadamia-crusted mahi mahi, or subtly $T$.
+sweet honey-mustard beef short ribs
+False
+2
+The $T$, which are a freebie when you order $10+, are delectable.
+cold sesame noodles
+False
+2
+I came to fresh expecting a great meal, and all I got was marginally so-so $T$ served in a restaurant that was just so freezing we couldn't enjoy eating.
+food
+False
+0
+I came to fresh expecting a great $T$, and all I got was marginally so-so food served in a restaurant that was just so freezing we couldn't enjoy eating.
+meal
+True
+0
+I came to fresh expecting a great meal, and all I got was marginally so-so food $T$ in a restaurant that was just so freezing we couldn't enjoy eating.
+served
+True
+1
+The lone $T$ at $8.95 was a heavy fennel flavored Italian sausage like the ones that sell for $2.99/lb at the store.
+argentine chorizo appetizer
+True
+0
+The lone argentine chorizo appetizer at $8.95 was a heavy $T$ like the ones that sell for $2.99/lb at the store.
+fennel flavored Italian sausage
+False
+0
+I went to Swiftys with some friends of the family and we had a very nice $T$, but nothing amazing.
+dinner
+False
+2
+Best Chinese on the Upper East, prompt $T$, good value.
+delivery
+False
+2
+Best Chinese on the Upper East, prompt delivery, good $T$.
+value
+False
+2
+Most of the $T$ are made with soy mayonaise which is actually pretty good.
+sandwiches
+False
+2
+Most of the sandwiches are made with $T$ which is actually pretty good.
+soy mayonaise
+True
+2
+i went in one day asking for a table for a group and was greeted by a very rude $T$.
+hostess
+False
+0
+i went in one day asking for a $T$ for a group and was greeted by a very rude hostess.
+table
+True
+1
+It's worthwhile to take a cab to Chelsea just for an awesome $T$ at My Chelsea.
+dinner
+False
+2
+Not only is the $T$ authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to $T$ and wine.
+food
+False
+2
+Not only is the food authentic, but the $T$ here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and wine.
+staff
+False
+2
+Not only is the $T$ authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to $T$ and wine.
+food
+False
+2
+Not only is the food authentic, but the staff here are practically off-the-boat, they are young and hip and know what they are doing when it comes to food and $T$.
+wine
+True
+2
+It has good $T$, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.
+music
+False
+2
+It has good music, nice $T$, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood clientele.
+tapas
+False
+2
+It has good music, nice tapas, an interesting $T$ and a lowkey hip neighborhood clientele.
+selection of wines (primarily Spanish)
+False
+2
+It has good music, nice tapas, an interesting selection of wines (primarily Spanish) and a lowkey hip neighborhood $T$.
+clientele
+False
+2
+The $T$ is great, I love their dumplings, cold sesame noodles, chicken and shrimp dishs.
+food
+False
+2
+The food is great, I love their $T$, cold sesame noodles, chicken and shrimp dishs.
+dumplings
+False
+2
+The food is great, I love their dumplings, $T$, chicken and shrimp dishs.
+cold sesame noodles
+False
+2
+The food is great, I love their dumplings, cold sesame noodles, $T$ and shrimp dishs.
+chicken
+False
+2
+The food is great, I love their dumplings, cold sesame noodles, chicken and $T$.
+shrimp dishs
+False
+2
+And the $T$, well the $T$ will keep you coming back.
+food
+True
+2
+And the $T$, well the $T$ will keep you coming back.
+food
+True
+2
+Waiting three hours before getting our $T$ was a treat as well.
+entrees
+True
+1
+$T$ three hours before getting our entrees was a treat as well.
+Waiting
+True
+0
+It's the conversations that make this a fun $T$ to be.
+place
+False
+2
+My gf's $T$ was very solid as well, although i have little base of reference.
+duck confitte
+False
+2
+The $T$ was superb, our tapas delightful, and the quiet atmosphere perfect for good conversation.
+wine list
+False
+2
+The wine list was superb, our $T$ delightful, and the quiet atmosphere perfect for good conversation.
+tapas
+False
+2
+The wine list was superb, our tapas delightful, and the quiet $T$ perfect for good conversation.
+atmosphere
+False
+2
+You can eat gourmet food at a fast food $T$.
+price
+True
+2
+You can eat gourmet $T$ at a fast $T$ price.
+food
+False
+2
+I've eaten at all three locations and I always love, love the $T$, the service is always wonderful and the prices are really reasonable.
+food
+False
+2
+I've eaten at all three locations and I always love, love the food, the $T$ is always wonderful and the prices are really reasonable.
+service
+False
+2
+I've eaten at all three locations and I always love, love the food, the service is always wonderful and the $T$ are really reasonable.
+prices
+False
+2
+Not because I was pregnant, but the $T$ here is always delicious.
+food
+False
+2
+Had a great $T$ there this weekend before heading to the movies!
+meal
+False
+2
+We had a birthday party here recently and the $T$ and service was amazing.
+food
+False
+2
+We had a birthday party here recently and the food and $T$ was amazing.
+service
+False
+2
+the $T$ offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.
+dinner menu
+False
+2
+the dinner menu offers a variety of great $T$, including fresh seafood and huge steaks, there's also a couple of non-meat alternatives.
+entrees
+False
+2
+the dinner menu offers a variety of great entrees, including fresh $T$ and huge steaks, there's also a couple of non-meat alternatives.
+seafood
+False
+2
+the dinner menu offers a variety of great entrees, including fresh seafood and huge $T$, there's also a couple of non-meat alternatives.
+steaks
+False
+2
+the dinner menu offers a variety of great entrees, including fresh seafood and huge steaks, there's also a couple of $T$.
+non-meat alternatives
+True
+1
+This place has the strangest $T$ and the restaurants tries too hard to make fancy food.
+menu
+False
+0
+This place has the strangest menu and the restaurants tries too hard to make fancy $T$.
+food
+False
+0
+The $T$ are ok, but the service is slow.
+appetizers
+False
+1
+The appetizers are ok, but the $T$ is slow.
+service
+False
+0
+the $T$ - not worth the price.
+food
+False
+0
+the food - not worth the $T$.
+price
+False
+0
+What can you say about a place where the $T$ brings out the wrong entree, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way).
+waitress
+True
+0
+What can you say about a place where the waitress brings out the wrong $T$, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way).
+entree
+False
+1
+The $T$ are not terrible.
+prices
+False
+2
+15% gratuity automatically added to the $T$.
+bill
+True
+0
+15% $T$ automatically added to the bill.
+gratuity
+True
+0
+The $T$ came with a generous portion of foie gras, but that's about the only positive thing I can say about the meal.
+halibut cheek appetizer
+False
+1
+The halibut cheek appetizer came with a generous $T$, but that's about the only positive thing I can say about the meal.
+portion of foie gras
+False
+2
+$T$ is excellent and they also have empenadas and plaintains which are good for an afternoon snack.
+Food
+False
+2
+Food is excellent and they also have $T$ and plaintains which are good for an afternoon snack.
+empenadas
+False
+2
+Food is excellent and they also have empenadas and $T$ which are good for an afternoon snack.
+plaintains
+False
+2
+Food is excellent and they also have empenadas and plaintains which are good for an $T$.
+afternoon snack
+False
+2
+Both a number of the appetizer and $T$ were amazing.
+pasta specials
+False
+2
+Both a number of the $T$ and pasta specials were amazing.
+appetizer
+False
+2
+All-time favorites include the $T$, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.
+Big Mac
+False
+2
+All-time favorites include the Big Mac, $T$, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like entree-sized salads are also available.
+Chicken McNuggets
+False
+2
+All-time favorites include the Big Mac, Chicken McNuggets, $T$ and McDonald's famous french fries; lighter options like entree-sized salads are also available.
+Filet-O-Fish sandwich
+False
+2
+All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and $T$; lighter options like entree-sized salads are also available.
+McDonald's famous french fries
+False
+2
+All-time favorites include the Big Mac, Chicken McNuggets, Filet-O-Fish sandwich and McDonald's famous french fries; lighter options like $T$ are also available.
+entree-sized salads
+False
+1
+It's a basic $T$ joint, not much to look at, but the $T$ is what I go for.
+pizza
+False
+2
+$T$ are close, so you better be comfortable bumping elbows with other patrons.
+Tables
+False
+0
+Was her Monday for $T$ - was working on a film in the area - and found this rare jewel.
+lunch
+True
+1
+Not too much so, but enough that there's a great $T$.
+scene
+False
+2
+Dug the $T$ too.
+blue bar area
+True
+2
+I got the opportunity to dine at your establishment again a few weeks ago, I was in your $T$.
+upstrairs dining area
+True
+1
+Meat-phobes are in luck with the extraordinary $T$, made from a distinctive blend of chickpeas, carrots and other vegetables and spices.
+veggie burger
+False
+2
+Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of $T$, carrots and other vegetables and spices.
+chickpeas
+False
+2
+Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, $T$ and other vegetables and spices.
+carrots
+False
+2
+Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other $T$ and spices.
+vegetables
+False
+2
+Meat-phobes are in luck with the extraordinary veggie burger, made from a distinctive blend of chickpeas, carrots and other vegetables and $T$.
+spices
+False
+2
+At peak times, the restaurant is overcrowded and $T$ are uncomfortably close.
+tables
+False
+0
+The $T$ was on point - what else you would expect from a Ritz?
+service
+False
+2
+$T$ feature seasonal picks, like sweet corn-foie gras brulee.
+Menus
+False
+1
+Menus feature seasonal picks, like $T$.
+sweet corn-foie gras brulee
+True
+1
+Innovations are just as assured, from the simple $T$ to the caviar-topped sturgeon, beautifully matched with a bright green spinach-vodka sauce.
+Carinthia cheese ravioli with wild mushrooms
+False
+2
+Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the $T$, beautifully matched with a bright green spinach-vodka sauce.
+caviar-topped sturgeon
+True
+2
+Innovations are just as assured, from the simple Carinthia cheese ravioli with wild mushrooms to the caviar-topped sturgeon, beautifully matched with a bright $T$.
+green spinach-vodka sauce
+False
+2
+And these are not small, wimpy fast food type $T$ - these are real, full sized patties.
+burgers
+False
+2
+And these are not small, wimpy fast food type burgers - these are real, full sized $T$.
+patties
+False
+2
+There restaurant is very casual, but perfect for $T$, and their delivery service is always very fast.
+lunch
+False
+1
+There restaurant is very casual, but perfect for lunch, and their $T$ is always very fast.
+delivery service
+False
+2
+Chinatown definitely has better $T$ with cheaper prices.
+quality
+False
+2
+Chinatown definitely has better quality with cheaper $T$.
+prices
+False
+2
+I had to flag down a third $T$ for a fork... so now it's goodbye Little RUDE Pie Company.
+staff person
+True
+1
+I had to flag down a third staff person for a $T$... so now it's goodbye Little RUDE Pie Company.
+fork
+True
+1
+Go with the $T$, and stay away from the salmon. 
+specials
+False
+2
+Go with the specials, and stay away from the $T$. 
+salmon
+False
+0
+The $T$ were pretty good.
+pastas
+False
+2
+$T$ is a bore.
+Atmosphere
+False
+0
+The $T$ is what initially got me in the door.
+decor
+True
+2
+The $T$ was very attentive and polite.
+wait staff
+False
+2
+Great restaurant, and even greater $T$!
+food
+False
+2
+The $T$ are remarkably tasty and such a cozy and intimate place!
+dishes
+False
+2
+The dishes are remarkably tasty and such a cozy and intimate $T$!
+place
+False
+2
+Save room for the $T$! ;-)
+desserts
+True
+2
+I love the simplicity and respect which was given to the $T$, as well the staff was freindly and knowledgable.
+food
+False
+2
+I love the simplicity and respect which was given to the food, as well the $T$ was freindly and knowledgable.
+staff
+False
+2
+$T$ was good and so was the atmosphere.
+Service
+False
+2
+Service was good and so was the $T$.
+atmosphere
+False
+2
+MY date and I both ordered the $T$ and both felt the fish was very average.
+Branzini
+False
+1
+MY date and I both ordered the Branzini and both felt the $T$ was very average.
+fish
+False
+0
+The $T$ was good, the service prompt, and the price very reasonable. 
+food
+False
+2
+The food was good, the $T$ prompt, and the price very reasonable. 
+service
+False
+2
+The food was good, the service prompt, and the $T$ very reasonable. 
+price
+False
+2
+Wonderful $T$, warm inviting ambiance, great service the FOOD keeps me coming back!
+menu
+False
+2
+Wonderful menu, warm inviting $T$, great service the FOOD keeps me coming back!
+ambiance
+False
+2
+Wonderful menu, warm inviting ambiance, great $T$ the FOOD keeps me coming back!
+service
+False
+2
+Wonderful menu, warm inviting ambiance, great service the $T$ keeps me coming back!
+FOOD
+True
+2
+Great $T$, good wine and an excellent host.
+food
+False
+2
+Great food, good $T$ and an excellent host.
+wine
+False
+2
+Great food, good wine and an excellent $T$.
+host
+False
+2
+$T$ were excellent in addition to appetizers and main courses.
+Pizzas
+False
+2
+Pizzas were excellent in addition to $T$ and main courses.
+appetizers
+True
+2
+Pizzas were excellent in addition to appetizers and $T$.
+main courses
+True
+2
+Definitely try the $T$, any pasta, or even the Sliced steak entree.
+calamari
+False
+2
+Definitely try the calamari, any $T$, or even the Sliced steak entree.
+pasta
+False
+2
+Definitely try the calamari, any pasta, or even the $T$.
+Sliced steak entree
+False
+2
+The $T$ was great.
+caeser salad
+False
+2
+The $T$ was even better!
+fried calamari
+False
+2
+The $T$ was good overall. 
+food
+False
+2
+The $T$ was outstanding and the service was tops.
+food
+False
+2
+The food was outstanding and the $T$ was tops.
+service
+False
+2
+The $T$ are very large and the service is fantastic!!
+portions
+False
+2
+The portions are very large and the $T$ is fantastic!!
+service
+False
+2
+I recomend the $T$.
+chicken milanese
+False
+2
+excellent $T$ at great prices, romantic, small but not overly crowed, excellent
+tapas
+False
+2
+excellent tapas at great $T$, romantic, small but not overly crowed, excellent
+prices
+False
+2
+The $T$ is heavenly- not too sweet, but full of flavor.
+chocolate raspberry cake
+False
+2
+The chocolate raspberry cake is heavenly- not too sweet, but full of $T$.
+flavor
+False
+2
+Our $T$ was helpful and charming, the food was perfect, and the wine was good, too.
+waiter
+False
+2
+Our waiter was helpful and charming, the $T$ was perfect, and the wine was good, too.
+food
+False
+2
+Our waiter was helpful and charming, the food was perfect, and the $T$ was good, too.
+wine
+False
+2
+I HAVE NEVER HAD A BAD $T$(OR BAD SERVICE )@ PIGALLE.
+MEAL
+True
+2
+I HAVE NEVER HAD A BAD MEAL(OR BAD $T$ )@ PIGALLE.
+SERVICE
+True
+2
+Best $T$ in the tri-state area.
+hot dogs
+False
+2
+The $T$ was very attentive and very generous.
+service
+False
+2
+We had tons of great $T$, wine, and desserts.
+food
+False
+2
+We had tons of great food, $T$, and desserts.
+wine
+False
+2
+We had tons of great food, wine, and $T$.
+desserts
+False
+2
+Really Lovely $T$ in the midst of buzzing midtown area.
+dining experience
+False
+2
+The $T$ really isn't very good and the service is terrible.
+food
+False
+0
+The food really isn't very good and the $T$ is terrible.
+service
+False
+0
+Not only do they have the best $T$ in town,they always try to accomodate our toddler.
+escargot
+False
+2
+Between my guest and I, we sampled at least 80% of the $T$, and they were all hits.
+menu
+True
+2
+The $T$ and ambiance was really romantic.
+Deco
+False
+2
+The Deco and $T$ was really romantic.
+ambiance
+False
+2
+Just go in and sample the greatest $T$ west of Daniel.
+french food
+False
+2
+For someone who used to hate $T$, Baluchi's has changed my mid.
+Indian food
+True
+2
+Finally a $T$ that I can eat, enjoy and not suffer from gastritis from 3 hours later.
+curry
+False
+2
+All are GREAT - $T$, naan, paratha all FRESH.
+poori
+False
+2
+All are GREAT - poori, $T$, paratha all FRESH.
+naan
+False
+2
+All are GREAT - poori, naan, $T$ all FRESH.
+paratha
+False
+2
+Try the $T$.
+homemade breads
+False
+2
+This place has beautiful $T$, and it's delicious CHEAP. 
+sushi
+False
+2
+It also has lots of other $T$ that are affordable and just as yummy.
+Korean dishes
+False
+2
+I went for restaurant week and ordered off the $T$
+prix fixe menu
+True
+1
+Not only was the $T$ efficient and courteous, but also extremely helpful. 
+waiter
+False
+2
+This $T$ is classy, chic, the service is warm and hospitable, and the food is outstanding.
+place
+False
+2
+This place is classy, chic, the $T$ is warm and hospitable, and the food is outstanding.
+service
+False
+2
+This place is classy, chic, the service is warm and hospitable, and the $T$ is outstanding.
+food
+False
+2
+Great $T$, grilled cheeses and french fries.
+burgers
+False
+2
+Great burgers, $T$ and french fries.
+grilled cheeses
+False
+2
+Great burgers, grilled cheeses and $T$.
+french fries
+False
+2
+The $T$ and Calf's liver are my favorites!
+Yellowfin Tuna
+False
+2
+The Yellowfin Tuna and $T$ are my favorites!
+Calf's liver
+False
+2
+$T$ so fresh that it crunches in your mouth.
+Sushi
+False
+2
+But make sure you have enough room on your credit card as the $T$ will leave a big dent in your wallet.
+bill
+False
+0
+They bring a sauce cart up to your table and offer you up to 7 or 8 choices of sauces for your $T$ (I tried them ALL).
+steak
+True
+1
+They bring a sauce cart up to your table and offer you up to 7 or 8 $T$ for your steak (I tried them ALL).
+choices of sauces
+True
+2
+They bring a $T$ up to your table and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).
+sauce cart
+True
+1
+They bring a sauce cart up to your $T$ and offer you up to 7 or 8 choices of sauces for your steak (I tried them ALL).
+table
+True
+1
+Not only was the $T$ fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the duck!
+sushi
+False
+2
+Not only was the sushi fresh, they also served other entrees allowed each guest something to choose from and we all left happy (try the $T$!
+duck
+False
+2
+Not only was the sushi fresh, they also served other $T$ allowed each guest something to choose from and we all left happy (try the duck!
+entrees
+True
+1
+good $T$ but nothing surprising.
+variety
+False
+2
+After I paid for my purchase, I noticed they had not given me $T$ so I could eat my pie.
+utensils
+True
+1
+After I paid for my purchase, I noticed they had not given me utensils so I could eat my $T$.
+pie
+True
+1
+Likewise if you like really $T$ or really big slices then Nick and Joe's may not be your favorite.
+thin crust
+True
+0
+Likewise if you like really thin crust or really big $T$ then Nick and Joe's may not be your favorite.
+slices
+True
+0
+No $T$, no egg, no anchovy dressing, no nicoise olives, no red onion.
+green beans
+False
+1
+No green beans, no $T$, no anchovy dressing, no nicoise olives, no red onion.
+egg
+False
+1
+No green beans, no egg, no $T$, no nicoise olives, no red onion.
+anchovy dressing
+False
+1
+No green beans, no egg, no anchovy dressing, no $T$, no red onion.
+nicoise olives
+False
+1
+No green beans, no egg, no anchovy dressing, no nicoise olives, no $T$.
+red onion
+False
+1
+Build a $T$ with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix.
+meal
+True
+1
+Build a meal with side orders like $T$, Buffalo Chicken Kickers and Cinna Stix.
+Amazin' Greens salads
+True
+1
+Build a meal with side orders like Amazin' Greens salads, $T$ and Cinna Stix.
+Buffalo Chicken Kickers
+True
+1
+Build a meal with side orders like Amazin' Greens salads, Buffalo Chicken Kickers and $T$.
+Cinna Stix
+True
+1
+Build a meal with $T$ like Amazin' Greens salads, Buffalo Chicken Kickers and Cinna Stix.
+side orders
+True
+1
+Thick $T$, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.
+fries
+False
+1
+Thick fries, $T$ and stuffed baked potatoes round out a menu that includes a cool, ultra-thick chocolate Frosty.
+meaty chili
+True
+1
+Thick fries, meaty chili and $T$ round out a menu that includes a cool, ultra-thick chocolate Frosty.
+stuffed baked potatoes
+True
+1
+Thick fries, meaty chili and stuffed baked potatoes round out a $T$ that includes a cool, ultra-thick chocolate Frosty.
+menu
+True
+1
+Thick fries, meaty chili and stuffed baked potatoes round out a menu that includes a cool, ultra-thick $T$.
+chocolate Frosty
+False
+2
+I always find myself asking the $T$ to make something bland and different than what is on the menu.
+waiter
+True
+1
+I always find myself asking the waiter to make something bland and different than what is on the $T$.
+menu
+True
+1
+Good $T$ BUT: it was not the best $T$ i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.
+cake
+False
+0
+Good cake BUT: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked $T$.
+employees
+True
+0
+The closest that I got was the $T$, but they were out of it that day.
+Cherry Marscapone
+True
+1
+The homage to India is most evident in the delectable $T$, a fried pancake served with pungent curry dipping sauce, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.
+roti canai appetizer
+False
+2
+The homage to India is most evident in the delectable roti canai appetizer, a fried pancake served with pungent curry dipping sauce, while the $T$ offers a surprisingly sophisticated, fresh take on sweet-and-sour.
+mango chicken
+False
+2
+The homage to India is most evident in the delectable roti canai appetizer, a $T$, while the mango chicken offers a surprisingly sophisticated, fresh take on sweet-and-sour.
+fried pancake served with pungent curry dipping sauce
+True
+2
+It doesn't look like much on the $T$, but the minute you walk inside, it's a whole other atmosphere.
+outside
+True
+0
+It doesn't look like much on the outside, but the minute you walk inside, it's a whole other $T$.
+atmosphere
+True
+2
+The $T$ we sampled as a starter tasted somewhat thin.
+ground chickpea soup
+False
+0
+The ground chickpea soup we sampled as a $T$ tasted somewhat thin.
+starter
+False
+1
+We requested they re-slice the $T$, and it was returned to us in small cheese-like cubes.
+sushi
+True
+0
+The $T$, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.
+service
+False
+0
+The service, however, is a peg or two below the $T$ (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.
+quality of food
+True
+2
+The service, however, is a peg or two below the quality of food (horrible $T$), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.
+bartenders
+False
+0
+The service, however, is a peg or two below the quality of food (horrible bartenders), and the $T$, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an AC/DC concert or a Knicks game.
+clientele
+False
+0
+The service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the $T$) getting loaded for an AC/DC concert or a Knicks game.
+staff
+False
+0
+If you're in the neighborhood, definitely stop by for a great $T$.
+meal
+False
+2
+Unfortunately, with our show tickets, we didn't have time to sample any $T$.
+desserts
+True
+1
+Make more $T$- perhaps a rooftop bar?
+tables
+True
+0
+Make more tables- perhaps a $T$?
+rooftop bar
+True
+1
+The $T$ was feeling like we was on the Cairo, actually the street is part of that adventure.
+decoration
+True
+2
+Although small, it has beautiful $T$, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.
+ambience
+False
+2
+Although small, it has beautiful ambience, excellent $T$ (the catfish is delicious - if ya don't mind it a lil salty) and attentive service.
+food
+False
+2
+Although small, it has beautiful ambience, excellent food (the $T$ is delicious - if ya don't mind it a lil salty) and attentive service.
+catfish
+False
+2
+Although small, it has beautiful ambience, excellent food (the catfish is delicious - if ya don't mind it a lil salty) and attentive $T$.
+service
+False
+2
+I didn't go there for $T$ so I can't comment.
+food
+True
+1
+Stick to the items the place does best, $T$, ribs, wings, cajun shrimp is good, not great.
+brisket
+False
+2
+Stick to the items the place does best, brisket, $T$, wings, cajun shrimp is good, not great.
+ribs
+False
+2
+Stick to the items the place does best, brisket, ribs, $T$, cajun shrimp is good, not great.
+wings
+False
+2
+Stick to the items the place does best, brisket, ribs, wings, $T$ is good, not great.
+cajun shrimp
+False
+1
+Hip boutiques and bars on Ludlow add to the artsy, laid-back $T$ at this Israeli-style takeout and eat-in burger joint.
+atmosphere
+False
+2
+Young neighborhood trendies graze at the $T$ during the day, while chic, art-house drinkers with heavy doses of the munchies pile in late at night.
+counter
+True
+1
+Bring your date and a $T$!
+bottle of wine
+True
+1
+My Chelsea's impressive and creative $T$ includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.
+menu
+False
+2
+My Chelsea's impressive and creative menu includes modern, Westernized $T$ such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.
+Japanese dishes
+False
+1
+My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as $T$, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.
+Foie Gras Unagi Napolean
+False
+1
+My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, $T$, spicy cod roe spaghetti, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.
+Jap style hamburger steak
+False
+1
+My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, $T$, black cod with miso base, and rack of lamb in black truffle sauce, to name a few.
+spicy cod roe spaghetti
+False
+1
+My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, $T$, and rack of lamb in black truffle sauce, to name a few.
+black cod with miso base
+False
+1
+My Chelsea's impressive and creative menu includes modern, Westernized Japanese dishes such as Foie Gras Unagi Napolean, Jap style hamburger steak, spicy cod roe spaghetti, black cod with miso base, and $T$, to name a few.
+rack of lamb in black truffle sauce
+False
+1
+His $T$ is excellent (and not expensive by NYC standards- no entrees over $30, most appetizers $12 to 14).
+food
+False
+2
+His food is excellent (and not expensive by NYC standards- no entrees over $30, most $T$ $12 to 14).
+appetizers
+False
+2
+His food is excellent (and not expensive by NYC standards- no $T$ over $30, most appetizers $12 to 14).
+entrees
+True
+2
+The $T$ is consistant and good but how it got name Best Diner In Manhattan is beyond me.
+food
+False
+2
+The $T$ was outstanding as well, lots of fresh veggies.
+pasta primavera
+False
+2
+The pasta primavera was outstanding as well, lots of $T$.
+fresh veggies
+False
+2
+don't get me wrong - $T$ was good, just not fantastic.
+sushi
+False
+2
+Being Puerto Rican I know a thing or two about $T$ and this place serves one of the best (I hope Mom doesn't read this!).
+flan
+True
+2
+Been to the one in Brooklyn for over 25 years, now I dont have to go over the bridge for the best $T$ ....Hanx
+pizza
+False
+2
+Had $T$ here on a Friday and the food was great.
+dinner
+True
+1
+Had dinner here on a Friday and the $T$ was great.
+food
+False
+2
+We recently spent New Year's Eve at the restaurant, and had a great experience, from the $T$ to the dessert menu.
+wine
+False
+2
+We recently spent New Year's Eve at the restaurant, and had a great experience, from the wine to the $T$.
+dessert menu
+False
+2
+Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing $T$; also, the bar looks nice.
+place
+False
+2
+Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up takeout and it seems a very relaxing place; also, the $T$ looks nice.
+bar
+False
+2
+Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up $T$ and it seems a very relaxing place; also, the bar looks nice.
+takeout
+True
+1
+The $T$ was fine, a little loud but still nice and romantic.
+ambiance
+False
+2
+but, the filet mignon was not very good at all $T$ includes free appetizers (nice non-sushi selection).
+cocktail hour
+True
+2
+but, the $T$ was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).
+filet mignon
+False
+0
+but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice $T$).
+non-sushi selection
+False
+2
+but, the filet mignon was not very good at all cocktail hour includes free $T$ (nice non-sushi selection).
+appetizers
+False
+2
+It took about 2 1/2 hours to be served our 2 $T$.
+courses
+True
+1
+It took about 2 1/2 hours to be $T$ our 2 courses.
+served
+True
+0
+Who said go when the $T$ is quiet during the day?
+place
+True
+1
+Can be a bit busy around peak times because of the $T$.
+size
+False
+0
+I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome $T$ and Hibiscus lemonade.
+chicken tacos
+False
+2
+I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little place with awesome chicken tacos and $T$.
+Hibiscus lemonade
+False
+2
+I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little $T$ with awesome chicken tacos and Hibiscus lemonade.
+place
+False
+2
+good $T$ to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.
+place
+False
+2
+good place to hang out during the day after shopping or to grab a simple $T$ or classic french dish over a glass of wine.
+soup
+False
+1
+good place to hang out during the day after shopping or to grab a simple soup or classic $T$ over a glass of wine.
+french dish
+False
+1
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a $T$.
+glass of wine
+True
+1
+Very nice touch that very much fits the $T$.
+place
+False
+2
+However, there is just something so great about being outdoors, in great landscaping, enjoying a $T$ that makes going to this place worthwhile.
+casual drink
+False
+2
+However, there is just something so great about being $T$, in great landscaping, enjoying a casual drink that makes going to this place worthwhile.
+outdoors
+False
+2
+However, there is just something so great about being outdoors, in great landscaping, enjoying a casual drink that makes going to this $T$ worthwhile.
+place
+True
+2
+We were seated promptly in close proximity to the $T$.
+dance floor
+True
+1
+If you are here as a $T$, hop in a cab and take the extra 10 minutes to go to the uptown location.
+pre-show meal
+True
+1
+The comments about $T$ is correct (below) but the other dishes, including the lamb entree and many of the salads (avocado shrimp) were quite good.
+fried foods
+True
+0
+The comments about fried foods is correct (below) but the other $T$, including the lamb entree and many of the salads (avocado shrimp) were quite good.
+dishes
+False
+2
+The comments about fried foods is correct (below) but the other dishes, including the $T$ and many of the salads (avocado shrimp) were quite good.
+lamb entree
+False
+2
+The comments about fried foods is correct (below) but the other dishes, including the lamb entree and many of the $T$ were quite good.
+salads (avocado shrimp)
+False
+2
+Slow $T$, but when you're hanging around with groups of 10 or 20, who really notices?
+service
+False
+0
+The sauce is excellent (very fresh) with $T$.
+dabs of real mozzarella
+True
+1
+The $T$ is excellent (very fresh) with dabs of real mozzarella.
+sauce
+False
+2
+Don't ever bother - the $T$ were awful, but it was the people who work there that really made this the worst experience at dining.
+drinks
+False
+0
+Don't ever bother - the drinks were awful, but it was the $T$ who work there that really made this the worst experience at dining.
+people
+False
+0
+Don't ever bother - the drinks were awful, but it was the people who work there that really made this the worst experience at $T$.
+dining
+False
+0
+The $T$ is a little plain, but it's difficult to make such a small place exciting and I would not suggest that as a reason not to go.
+room
+False
+0
+The room is a little plain, but it's difficult to make such a small $T$ exciting and I would not suggest that as a reason not to go.
+place
+True
+0
+$T$ even outside of restaurant week were great.
+Prices
+False
+2
+A small, outdoor eating area makes for a private, comfortable $T$ to study alone or meet up with friends.
+space
+False
+2
+A small, $T$ makes for a private, comfortable space to study alone or meet up with friends.
+outdoor eating area
+False
+2
+And all the $T$ are cute too, which is always nice.
+[female] servers
+False
+2
+The best $T$, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to sweets.
+dessert
+False
+2
+The best dessert, a $T$, isn't particularly Hawaiian, but it's a small world when it comes to sweets.
+chocolate and peanut butter tart
+True
+2
+The best dessert, a chocolate and peanut butter tart, isn't particularly Hawaiian, but it's a small world when it comes to $T$.
+sweets
+True
+1
+for an $T$, their calamari is a winner.
+appetizer
+False
+1
+for an appetizer, their $T$ is a winner.
+calamari
+False
+2
+Satay is one of those favorite haunts on Washington where the $T$ and food is always on the money.
+service
+True
+2
+Satay is one of those favorite haunts on Washington where the service and $T$ is always on the money.
+food
+True
+2
+After $T$ I heard music playing and discovered that there is a lounge downstairs.
+dinner
+True
+1
+After dinner I heard $T$ playing and discovered that there is a lounge downstairs.
+music
+True
+1
+After dinner I heard music playing and discovered that there is a $T$ downstairs.
+lounge
+True
+1
+The $T$ is a gorgeous, bi-level space and the long bar perfect for a drink.
+room
+False
+2
+The room is a gorgeous, $T$ and the long bar perfect for a drink.
+bi-level space
+False
+2
+The room is a gorgeous, bi-level space and the $T$ perfect for a drink.
+long bar
+False
+2
+The room is a gorgeous, bi-level space and the long bar perfect for a $T$.
+drink
+True
+1
+Two complaints- their $T$ stinks, it would be nice to get some mozzarella sticks on the menu.
+appetizer selection
+False
+0
+Two complaints- their appetizer selection stinks, it would be nice to get some $T$ on the menu.
+mozzarella sticks
+True
+1
+Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the $T$.
+menu
+True
+0
+I was especially impressed during the bday party when the $T$ went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly service to a 15 person party.
+waitstaff
+True
+2
+I was especially impressed during the bday party when the waitstaff went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly $T$ to a 15 person party.
+service
+False
+2
+The $T$ were nondescript combinations with fresh leaf salad.
+chicken and falafel platters
+False
+1
+The chicken and falafel platters were nondescript combinations with $T$.
+fresh leaf salad
+False
+1
+The $T$ takes you to that place, the place many dream of.
+atmosphere
+True
+2
+several times and put up with the $T$' bad manners, knowing that their job isn't easy.
+waiters
+False
+0
+The service is great (maybe even borderline nagging but at least you get attention), the $T$ are excellent and the coffee is so very good...
+desserts
+False
+2
+The service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the $T$ is so very good...
+coffee
+False
+2
+They are $T$ on Focacchia bread and are to die for.
+served
+True
+1
+They are served on $T$ and are to die for.
+Focacchia bread
+False
+1
+While the $T$ are a little big for me, the fresh juices are the best I have ever had!
+smoothies
+False
+0
+While the smoothies are a little big for me, the $T$ are the best I have ever had!
+fresh juices
+False
+2
+The food is just OKAY, and it's almost not worth going unless you're getting the $T$, which is the only dish that's really good.
+pialla
+False
+2
+The food is just OKAY, and it's almost not worth going unless you're getting the pialla, which is the only $T$ that's really good.
+dish
+False
+2
+The guac is fresh, yet lacking flavor, we like to add our $T$ into it.
+fresh salsa
+True
+1
+The guac is fresh, yet lacking $T$, we like to add our fresh salsa into it.
+flavor
+False
+0
+The new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the $T$), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.
+prices
+False
+0
+The $T$ has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.
+new menu
+False
+2
+It' only open for $T$ but the food is so good!
+lunch
+True
+1
+It' only open for lunch but the $T$ is so good!
+food
+False
+2
+If you like $T$ and/or Greek food you will love this place though it is not limited to just these things.
+seafood
+True
+2
+If you like seafood and/or $T$ you will love this place though it is not limited to just these things.
+Greek food
+True
+2
+" The $T$ includes pub fare--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.
+menu
+True
+1
+" The menu includes pub fare--$T$, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.
+burgers
+True
+1
+" The menu includes pub fare--burgers, $T$ and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.
+steaks
+True
+1
+" The menu includes pub fare--burgers, steaks and $T$--and even a portabella lasagna for those black sheep known as "vegetarians.
+shepherds pie
+True
+1
+" The menu includes pub fare--burgers, steaks and shepherds pie--and even a $T$ for those black sheep known as "vegetarians.
+portabella lasagna
+True
+1
+" The menu includes $T$--burgers, steaks and shepherds pie--and even a portabella lasagna for those black sheep known as "vegetarians.
+pub fare
+True
+1
+How can they survive serving mediocre $T$ at exorbitant prices?!
+food
+False
+1
+How can they survive serving mediocre food at exorbitant $T$?!
+prices
+False
+0
+The food was mediocre and the $T$ was severely slow.
+service
+False
+0
+The $T$ was mediocre and the service was severely slow.
+food
+False
+1
+i have eaten here on a different occasion - the $T$ is mediocre for the prices.
+food
+False
+1
+i have eaten here on a different occasion - the food is mediocre for the $T$.
+prices
+True
+0
+I'm looking forward to going back soon and eventually trying most everything on the $T$!
+menu
+True
+2
+I just had my first visit to this place and can't wait to go back and slowly work my way through the $T$.
+menu
+True
+1
+I asked repeatedly what the status of the meal was and was pretty much grunted at by the unbelievably rude $T$.
+waiter
+False
+0
+I asked repeatedly what the status of the $T$ was and was pretty much grunted at by the unbelievably rude waiter.
+meal
+True
+1
+I stopped by for some $T$ today and had the vegan cranberry pancakes and some rice milk.
+brunch
+True
+1
+I stopped by for some brunch today and had the $T$ and some rice milk.
+vegan cranberry pancakes
+True
+1
+I stopped by for some brunch today and had the vegan cranberry pancakes and some $T$.
+rice milk
+True
+1
+Sweet Irish $T$ is always happy and able to bring a smile to my friends a my face.
+bartender
+False
+2
+Its good to go there for drinks if you don't want to get drunk because you'll be lucky if you can get one drink an hour the $T$ is so bad.
+service
+False
+0
+Its good to go there for $T$s if you don't want to get drunk because you'll be lucky if you can get one $T$ an hour the service is so bad.
+drink
+True
+1
+Its good to go there for $T$ if you don't want to get drunk because you'll be lucky if you can get one drink an hour the service is so bad.
+drinks
+False
+1
+Anyway, the $T$ was fake.
+owner
+False
+0
+$T$ is pleasant and entertaining.
+Owner
+False
+2
+I have never in my life sent back $T$ before, but I simply had to, and the waiter argued with me over this.
+food
+True
+0
+I have never in my life sent back food before, but I simply had to, and the $T$ argued with me over this.
+waiter
+True
+0
+Although the restaurant itself is nice, I prefer not to go for the $T$.
+food
+True
+0
+$T$--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.
+Creamy appetizers
+False
+2
+Creamy appetizers--taramasalata, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on $T$.
+warm pitas
+False
+1
+Creamy appetizers--$T$, eggplant salad, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.
+taramasalata
+False
+2
+Creamy appetizers--taramasalata, $T$, and Greek yogurt (with cuccumber, dill, and garlic) taste excellent when on warm pitas.
+eggplant salad
+False
+2
+Creamy appetizers--taramasalata, eggplant salad, and $T$ taste excellent when on warm pitas.
+Greek yogurt (with cuccumber, dill, and garlic)
+False
+2
