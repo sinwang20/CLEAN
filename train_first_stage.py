@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
-# file: train.py
-# author: songyouwei <youwei0314@gmail.com>
-# Copyright (C) 2018. All Rights Reserved.
+# file: train_first_stage.py
+
 import itertools
 import logging
 import argparse
@@ -87,25 +86,18 @@ class Instructor:
     # stage 1
     def distloss1(self, xk, z_scores):
         gloss = []
-        # z_former = z_scores[0]
-        # z_score = z_scores / z_former
-        # print(z_score)
-        # print(xk)
-        lonum = 1 + 4 * self.opt.aug_multi  # augnum+formernum
-        for i in range(1, lonum):  # augnum+formernum 遍历augnum个计算差距
+
+        lonum = 1 + 4 * self.opt.aug_multi  # augnum + formernum
+        for i in range(1, lonum):  # augnum + formernum 遍历augnum个计算差距
             reg_loss = torch.nn.functional.smooth_l1_loss(xk[i] * z_scores[0],
-                                                          xk[0] * z_scores[i])  # xr <--> alphar *# x
-            # reg_loss = torch.nn.functional.smooth_l1_loss(xk[i] * self.get_mean_wo_i(z_scores, i)
-            #                                         , self.get_mean_wo_i(xk, i) * z_scores[i])
+                                                          xk[0] * z_scores[i])  # xr <--> alphar * x
             gloss.append(reg_loss)
-        # print(sum(gloss) / len(gloss))
         return sum(gloss) / len(gloss)  # augnum+1求平均
 
     def regularization1(self, k, all_alphas, bertx):
         batch_size = k[0]
         totnum = k[1]
         bertx = bertx.reshape(batch_size, totnum, self.opt.bert_dim)
-        # print(all_alphai)
 
         # batch_size组数据计算组内差距
         all_regs1 = []
@@ -135,23 +127,17 @@ class Instructor:
                 # optimizer.zero_grad()
 
                 inputs = [batch[col].to(self.opt.device) for col in self.opt.inputs_cols]
-                # print("input: ")
-                # print(inputs[0].shape)
                 a = inputs[0].shape
                 batch_size = inputs[0].shape[0]
                 totnum = inputs[0].shape[1]
                 inputs[0] = inputs[0].view(batch_size * totnum, self.opt.max_seq_len)
                 if self.opt.task == 'absa':
                     inputs[1] = inputs[1].view(batch_size * totnum, self.opt.max_seq_len)
-                # outputs, all_loss = self.model(inputs)
                 outputs, alpha, bertx = self.model1(inputs)
                 outputs_ans = outputs[0:a[0] * a[1]:(1 + 4 * self.opt.aug_multi)]
 
                 alpha_loss = self.opt.beta1 * self.regularization1(a, alpha, bertx)
-                # logger.info('ce: {0}, l1: {1}'.format(aaa, bbb))
-                # logger.info('alphal2: {:.5f}'.format(bbb))
                 loss = alpha_loss
-                # print(criterion(outputs, targets))
 
                 loss = loss / self.opt.accmulation_steps
                 loss.backward()
@@ -167,27 +153,23 @@ class Instructor:
                     logger.info('loss: {:.4f}'.format(train_loss))
             logger.info('>> constant: {}'.format(self.model1.constant))
 
-        #alpha_trained = self.model1.constant.tolist()
-        #alpha_trained = self.model1.constant.cpu().numpy()
         alpha_trained = self.model1.constant
         alpha1 = alpha_trained[0]
         logger.info('>> saved: {}'.format(alpha_trained))
         print('alpha_tensor', id(alpha_trained))
-        alpha_new = alpha_trained/alpha1
+        alpha_new = alpha_trained / alpha1
         logger.info('>> saved: {}'.format(alpha_new))
         alpha_file = './alpha/{}-new{}.pt'.format(self.opt.dataset, str(self.opt.num_epoch_alpha))
-        torch.save(alpha_new, alpha_file) # 保存
-        #np.save('train1alpha.npy', alpha_new)
+        torch.save(alpha_new, alpha_file)  # 保存
         print('alpha_list', id(alpha_new))
         return alpha_new
-
 
     def run(self):
         # Loss and Optimizer
 
         train_data_loader = DataLoader(dataset=self.trainset, batch_size=self.opt.batch_size, shuffle=True)
-        #test_data_loader = DataLoader(dataset=self.testset, batch_size=self.opt.batch_size, shuffle=False)
-        #val_data_loader = DataLoader(dataset=self.valset, batch_size=self.opt.batch_size, shuffle=False)
+        # test_data_loader = DataLoader(dataset=self.testset, batch_size=self.opt.batch_size, shuffle=False)
+        # val_data_loader = DataLoader(dataset=self.valset, batch_size=self.opt.batch_size, shuffle=False)
 
         self._reset_params()
         self._train1(train_data_loader)
@@ -222,14 +204,11 @@ def main():
     parser.add_argument('--valset_ratio', default=0, type=float,
                         help='set ratio between 0 and 1 for validation support')
     parser.add_argument('--beta1', default=0.1, type=float)
-    #parser.add_argument('--beta2', default=0.1, type=float)
-    #parser.add_argument('--aug', default='all', type=str,
+    # parser.add_argument('--beta2', default=0.1, type=float)
+    # parser.add_argument('--aug', default='all', type=str,
     #                    help='xxx_insert, bert_substitute, bert_insert, word2vec_insert')
-    #parser.add_argument('--aug_ratio', default='0.1', type=str, help='0.1, 0.2, 0.3, 0.4')
-    # The following parameters are only valid for the lcf-bert model
-    parser.add_argument('--local_context_focus', default='cdm', type=str, help='local context focus mode, cdw or cdm')
-    parser.add_argument('--SRD', default=3, type=int,
-                        help='semantic-relative-distance, see the paper of LCF-BERT model')
+    # parser.add_argument('--aug_ratio', default='0.1', type=str, help='0.1, 0.2, 0.3, 0.4')
+
     opt = parser.parse_args()
 
     if opt.seed is not None:

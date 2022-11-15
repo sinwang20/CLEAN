@@ -39,12 +39,12 @@ class Instructor:
 
         self.trainset = ISADataset1(opt.dataset_file['train'], tokenizer)
         self.testset = ISADataset1(opt.dataset_file['test'], tokenizer)
-        #self.valset = ABSADataset1(opt.dataset_file['val'], tokenizer)
+        # self.valset = ABSADataset1(opt.dataset_file['val'], tokenizer)
 
         assert 0 <= opt.valset_ratio < 1
         if opt.valset_ratio > 0:
             valset_len = int(len(self.trainset) * opt.valset_ratio)
-            self.trainset, self.valset = random_split(self.trainset, (len(self.trainset)-valset_len, valset_len))
+            self.trainset, self.valset = random_split(self.trainset, (len(self.trainset) - valset_len, valset_len))
         else:
             self.valset = self.testset
 
@@ -60,7 +60,8 @@ class Instructor:
                 n_trainable_params += n_params
             else:
                 n_nontrainable_params += n_params
-        logger.info('> n_trainable_params: {0}, n_nontrainable_params: {1}'.format(n_trainable_params, n_nontrainable_params))
+        logger.info(
+            '> n_trainable_params: {0}, n_nontrainable_params: {1}'.format(n_trainable_params, n_nontrainable_params))
         logger.info('> training arguments:')
         for arg in vars(self.opt):
             logger.info('>>> {0}: {1}'.format(arg, getattr(self.opt, arg)))
@@ -149,7 +150,8 @@ class Instructor:
                     t_outputs_all = torch.cat((t_outputs_all, t_outputs), dim=0)
 
         acc = n_correct / n_total
-        f1 = metrics.f1_score(t_targets_all.cpu(), torch.argmax(t_outputs_all, -1).cpu(), labels=[0, 1, 2], average='macro')
+        f1 = metrics.f1_score(t_targets_all.cpu(), torch.argmax(t_outputs_all, -1).cpu(), labels=[0, 1, 2],
+                              average='macro')
         return acc, f1
 
     def run(self):
@@ -192,12 +194,9 @@ def main():
     parser.add_argument('--patience', default=5, type=int)
     parser.add_argument('--device', default=None, type=str, help='e.g. cuda:0')
     parser.add_argument('--seed', default=1234, type=int, help='set seed for reproducibility')
-    parser.add_argument('--valset_ratio', default=0, type=float, help='set ratio between 0 and 1 for validation support')
-    #parser.add_argument('--dataset_type', default='ISADataset6', type=str, help='ISADataset1, ISADataset6')
+    parser.add_argument('--valset_ratio', default=0, type=float,
+                        help='set ratio between 0 and 1 for validation support')
 
-    # The following parameters are only valid for the lcf-bert model
-    parser.add_argument('--local_context_focus', default='cdm', type=str, help='local context focus mode, cdw or cdm')
-    parser.add_argument('--SRD', default=3, type=int, help='semantic-relative-distance, see the paper of LCF-BERT model')
     opt = parser.parse_args()
 
     if opt.seed is not None:
@@ -231,7 +230,7 @@ def main():
     input_colses = {
         'bert_spc': ['concat_bert_indices', 'concat_segments_indices'],
         'bert_spcno': ['concat_bert_indices'],
-       }
+    }
     initializers = {
         'xavier_uniform_': torch.nn.init.xavier_uniform_,
         'xavier_normal_': torch.nn.init.xavier_normal_,

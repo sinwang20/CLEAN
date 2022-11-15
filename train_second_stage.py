@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-# file: train.py
-# author: songyouwei <youwei0314@gmail.com>
-# Copyright (C) 2018. All Rights Reserved.
+# file: train_second_stage.py
 
 import logging
 import argparse
@@ -22,7 +20,6 @@ from torch.utils.data import DataLoader, random_split
 
 from data_utils import Tokenizer4Bert, ABSADataset7, ABSADataset6, ISADataset6, ISADataset1
 from models import BERT_SPC, BERT_SPC1, BERT_SPCno, BERT_SPCno1
-
 
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
@@ -47,7 +44,7 @@ class Instructor:
         assert 0 <= opt.valset_ratio < 1
         if opt.valset_ratio > 0:
             valset_len = int(len(self.trainset) * opt.valset_ratio)
-            self.trainset, self.valset = random_split(self.trainset, (len(self.trainset)-valset_len, valset_len))
+            self.trainset, self.valset = random_split(self.trainset, (len(self.trainset) - valset_len, valset_len))
         else:
             self.valset = self.testset
 
@@ -64,7 +61,8 @@ class Instructor:
                 n_trainable_params += n_params
             else:
                 n_nontrainable_params += n_params
-        logger.info('> n_trainable_params: {0}, n_nontrainable_params: {1}'.format(n_trainable_params, n_nontrainable_params))
+        logger.info(
+            '> n_trainable_params: {0}, n_nontrainable_params: {1}'.format(n_trainable_params, n_nontrainable_params))
         logger.info('> training arguments:')
         for arg in vars(self.opt):
             logger.info('>>> {0}: {1}'.format(arg, getattr(self.opt, arg)))
@@ -86,18 +84,10 @@ class Instructor:
     # stage 2
     def distloss2(self, xk, z_scores):
         gloss = []
-        # print(z_scores)
-        # print(xk)
-        # z_scores = [1, 0.9, 0.9, 0.9, 0.9, 0.8, 0.7]
-        # z_scores = [0.9, 0.8, 0.9, 0.7, 0.9]
-        # z_scores = [1, 1, 1, 1, 1]
-        # xk.shape=(5,3)
         for i in range((1 + 4 * self.opt.aug_multi)):  # augnum+formernum 遍历augnum个计算差距
-            # reg_loss = torch.nn.functional.smooth_l1_loss(xk[i], self.get_mean_wo_i(xk, i))
             reg_loss = torch.nn.functional.smooth_l1_loss(xk[i] * self.get_mean_wo_i(z_scores, i)
                                                           , self.get_mean_wo_i(xk, i) * z_scores[i])
             gloss.append(reg_loss)
-        # print(sum(gloss) / len(gloss))
         return sum(gloss) / len(gloss)  # augnum+1求平均
 
     def regularization2(self, k, all_outs, all_alphas):
@@ -119,10 +109,8 @@ class Instructor:
         max_val_epoch = 0
         path = None
         global_step = 0
-        #alpha = np.load('train1alpha.npy')
         alpha_file = './alpha/{}-{}.pt'.format(self.opt.dataset, str(self.opt.num_epoch_alpha))
-        alpha = torch.load(alpha_file) # 读取
-        #alpha = torch.load('train1alpha10.pt') # 读取
+        alpha = torch.load(alpha_file)  # 读取
         logger.info('>> alpha_read: {}'.format(alpha))
         alpha = alpha.tolist()
         print(alpha)
@@ -135,25 +123,19 @@ class Instructor:
 
             for i_batch, batch in enumerate(train_data_loader):
                 global_step += 1
-                # clear gradient accumulators
-                # optimizer.zero_grad()
 
                 inputs = [batch[col].to(self.opt.device) for col in self.opt.inputs_cols]
-                # print("input: ")
-                # print(inputs[0].shape)
                 a = inputs[0].shape
                 batch_size = inputs[0].shape[0]
                 totnum = inputs[0].shape[1]
                 inputs[0] = inputs[0].view(batch_size * totnum, self.opt.max_seq_len)
                 if self.opt.task == 'absa':
                     inputs[1] = inputs[1].view(batch_size * totnum, self.opt.max_seq_len)
-                # outputs, all_loss = self.model(inputs)
                 outputs = self.model2(inputs)
                 outputs_ans = outputs[0:a[0] * a[1]:(1 + 4 * self.opt.aug_multi)]  # batch*polar
                 targets = batch['polarity'].to(self.opt.device)
 
                 loss = criterion(outputs_ans, targets) + self.opt.beta2 * self.regularization2(a, outputs, alpha)
-                # print(criterion(outputs, targets))
 
                 loss = loss / self.opt.accmulation_steps
                 loss.backward()
@@ -205,8 +187,6 @@ class Instructor:
         with torch.no_grad():
             for i_batch, t_batch in enumerate(data_loader):
                 t_inputs = [t_batch[col].to(self.opt.device) for col in self.opt.inputs_cols]
-                #if self.opt.task == 'absa':
-                #    implicits = t_batch['implicit'].to(self.opt.device)
                 t_targets = t_batch['polarity'].to(self.opt.device)
 
                 t_outputs = self.model2(t_inputs)
@@ -258,13 +238,13 @@ class Instructor:
                         .format(test_acc, test_f1, ese, ise))
         else:
             test_acc, test_f1 = self._evaluate_acc_f1(test_data_loader)
-            logger.info('>> test_acc: {:.4f}, test_f1: {:.4f}'.format(test_acc,test_f1))
+            logger.info('>> test_acc: {:.4f}, test_f1: {:.4f}'.format(test_acc, test_f1))
 
 
 def main():
     # Hyper Parameters
     parser = argparse.ArgumentParser()
-    #parser.add_argument('--model_name1', default='bert_spc1', type=str)
+    # parser.add_argument('--model_name1', default='bert_spc1', type=str)
     parser.add_argument('--model_name2', default='bert_spc', type=str)
     parser.add_argument('--aug_multi', default='1', type=int, help='1, 2, 3, 4')
     parser.add_argument('--task', default='absa', type=str, help='isa, absa')
@@ -291,15 +271,10 @@ def main():
     parser.add_argument('--seed', default=1234, type=int, help='set seed for reproducibility')
     parser.add_argument('--valset_ratio', default=0, type=float,
                         help='set ratio between 0 and 1 for validation support')
-    #parser.add_argument('--beta1', default=0.1, type=float)
     parser.add_argument('--beta2', default=0.1, type=float)
     parser.add_argument('--aug', default='all', type=str,
                         help='xxx_insert, bert_substitute, bert_insert, word2vec_insert')
     parser.add_argument('--aug_ratio', default='0.1', type=str, help='0.1, 0.2, 0.3, 0.4')
-    # The following parameters are only valid for the lcf-bert model
-    parser.add_argument('--local_context_focus', default='cdm', type=str, help='local context focus mode, cdw or cdm')
-    parser.add_argument('--SRD', default=3, type=int,
-                        help='semantic-relative-distance, see the paper of LCF-BERT model')
     opt = parser.parse_args()
 
     if opt.seed is not None:

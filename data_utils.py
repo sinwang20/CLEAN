@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # file: data_utils.py
-# author: songyouwei <youwei0314@gmail.com>
-# Copyright (C) 2018. All Rights Reserved.
+
 
 import os
 import pickle
@@ -64,7 +63,7 @@ def pad_and_truncate(sequence, maxlen, dtype='int64', padding='post', truncating
 class Tokenizer4Bert:
     def __init__(self, max_seq_len, pretrained_bert_name):
         print(pretrained_bert_name)
-        self.tokenizer = BertTokenizer.from_pretrained(pretrained_bert_name) #BertTokenizer
+        self.tokenizer = BertTokenizer.from_pretrained(pretrained_bert_name)  # BertTokenizer
         self.max_seq_len = max_seq_len
 
     def text_to_sequence(self, text, reverse=False, padding='post', truncating='post'):
@@ -81,9 +80,6 @@ class ABSADataset(Dataset):
         fin = open(fname, 'r', encoding='utf-8', newline='\n', errors='ignore')
         lines = fin.readlines()
         fin.close()
-        # fin = open(fname + '.graph', 'rb')
-        # idx2graph = pickle.load(fin)
-        # fin.close()
 
         all_data = []
         for i in range(0, len(lines), 3):
@@ -112,16 +108,6 @@ class ABSADataset(Dataset):
             text_bert_indices = tokenizer.text_to_sequence(
                 "[CLS] " + text_left + " " + aspect + " " + text_right + " [SEP]")
             aspect_bert_indices = tokenizer.text_to_sequence("[CLS] " + aspect + " [SEP]")
-            '''
-            print(concat_bert_indices)
-            print(concat_segments_indices)
-            print(text_bert_indices)
-            print(aspect_bert_indices)
-            '''
-
-            # dependency_graph = np.pad(idx2graph[i], \
-            #                          ((0, tokenizer.max_seq_len - idx2graph[i].shape[0]),
-            #                           (0, tokenizer.max_seq_len - idx2graph[i].shape[0])), 'constant')
 
             data = {
                 'concat_bert_indices': concat_bert_indices,
@@ -136,7 +122,6 @@ class ABSADataset(Dataset):
                 'right_with_aspect_indices': right_with_aspect_indices,
                 'aspect_indices': aspect_indices,
                 'aspect_boundary': aspect_boundary,
-                # 'dependency_graph': dependency_graph,
                 'polarity': polarity,
             }
 
@@ -149,10 +134,11 @@ class ABSADataset(Dataset):
     def __len__(self):
         return len(self.data)
 
+
 class ABSADataset6(Dataset):
     def __init__(self, fname, aug_multi, tokenizer):
         fin = open(fname, 'r', encoding='utf-8', newline='\n', errors='ignore')
-        lines = fin.readlines()  # 读取每一行，并且放到一个list里
+        lines = fin.readlines()
         fin.close()
 
         all_data = []
@@ -201,8 +187,6 @@ class ABSADataset6(Dataset):
                 texti_left, _, texti_right = [s.lower().strip() for s in lines[i + 1 + j].partition("7mw2")]
                 texti_indices = tokenizer.text_to_sequence(texti_left + " " + aspect + " " + texti_right)
                 texti_len = np.sum(texti_indices != 0)
-                # if texti_len > 85:
-                #    print("over", texti_len)
                 lefti_indices = tokenizer.text_to_sequence(texti_left)
 
                 concat_bert_indices_xi = tokenizer.text_to_sequence(
@@ -228,9 +212,6 @@ class ABSADataset6(Dataset):
             left_indices_bias = torch.tensor(left_indices_bias)
             text_bert_indices_bias = torch.tensor(text_bert_indices_bias)
             aspect_bert_indices_bias = torch.tensor(aspect_bert_indices_bias)
-
-            # print(text_indices_bias)
-            # print(left_indices_bias)
 
             data = {
                 'concat_bert_indices': concat_bert_text_bias,
@@ -262,9 +243,6 @@ class ABSADataset7(Dataset):
         fin = open(fname, 'r', encoding='utf-8', newline='\n', errors='ignore')
         lines = fin.readlines()
         fin.close()
-        # fin = open(fname + '.graph', 'rb')
-        # idx2graph = pickle.load(fin)
-        # fin.close()
 
         all_data = []
         for i in range(0, len(lines), 4):
@@ -273,7 +251,7 @@ class ABSADataset7(Dataset):
             implicit = lines[i + 2].strip()
             polarity = lines[i + 3].strip()
 
-            text = text_left+" "+aspect+" "+text_right
+            text = text_left + " " + aspect + " " + text_right
             text_indices = tokenizer.text_to_sequence(text_left + " " + aspect + " " + text_right)
             context_indices = tokenizer.text_to_sequence(text_left + " " + text_right)
             left_indices = tokenizer.text_to_sequence(text_left)
@@ -297,10 +275,6 @@ class ABSADataset7(Dataset):
                 "[CLS] " + text_left + " " + aspect + " " + text_right + " [SEP]")
             aspect_bert_indices = tokenizer.text_to_sequence("[CLS] " + aspect + " [SEP]")
 
-            # dependency_graph = np.pad(idx2graph[i], \
-            #                          ((0, tokenizer.max_seq_len - idx2graph[i].shape[0]),
-            #                           (0, tokenizer.max_seq_len - idx2graph[i].shape[0])), 'constant')
-
             data = {
                 'concat_bert_indices': concat_bert_indices,
                 'concat_segments_indices': concat_segments_indices,
@@ -314,7 +288,6 @@ class ABSADataset7(Dataset):
                 'right_with_aspect_indices': right_with_aspect_indices,
                 'aspect_indices': aspect_indices,
                 'aspect_boundary': aspect_boundary,
-                # 'dependency_graph': dependency_graph,
                 'polarity': polarity,
                 'implicit': implicit,
                 'text': text,
@@ -343,12 +316,12 @@ def polarity_to_num(str):
 class ISADataset1(Dataset):
     def __init__(self, fname, tokenizer):
         fin = open(fname, 'r', encoding='utf-8', newline='\n', errors='ignore')
-        lines = fin.readlines()  # 读取每一行，并且放到一个list里
+        lines = fin.readlines()
         fin.close()
 
         all_data = []
         for i in range(0, len(lines), 2):
-            text = lines[i].lower().strip()  # lower()转小写，strip()去除空白
+            text = lines[i].lower().strip()
             polarity = lines[i + 1].strip()
 
             text_indices = tokenizer.text_to_sequence(text)
@@ -375,13 +348,13 @@ class ISADataset1(Dataset):
 class ISADataset6(Dataset):
     def __init__(self, fname, aug_multi, tokenizer):
         fin = open(fname, 'r', encoding='utf-8', newline='\n', errors='ignore')
-        lines = fin.readlines()  # 读取每一行，并且放到一个list里
+        lines = fin.readlines()
         fin.close()
 
         all_data = []
         textedanum = (2 + aug_multi * 4)  # 5,7
         for i in range(0, len(lines), textedanum):  # 7 5
-            text = lines[i].lower().strip()  # lower()转小写，strip()去除空白
+            text = lines[i].lower().strip()
             polarity = lines[i + textedanum - 1].strip()
 
             concat_bert_text_bias = []
@@ -390,9 +363,8 @@ class ISADataset6(Dataset):
             concat_bert_text_bias.append(concat_bert_indices)
             # eda
             for j in range(4 * aug_multi):
-                texti = lines[i+1+j].lower().strip()
+                texti = lines[i + 1 + j].lower().strip()
                 concat_bert_indices_xi = tokenizer.text_to_sequence("[CLS] " + texti + " [SEP]")
-                # print(concat_bert_indices_xi)
                 concat_bert_text_bias.append(concat_bert_indices_xi)
 
             concat_bert_text_bias = torch.tensor(concat_bert_text_bias)

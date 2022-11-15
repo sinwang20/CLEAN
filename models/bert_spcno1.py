@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
-# file: BERT_SPC.py
-# author: songyouwei <youwei0314@gmail.com>
-# Copyright (C) 2019. All Rights Reserved.
+# file: BERT_SPCno1.py
+
 import torch
 import torch.nn as nn
 

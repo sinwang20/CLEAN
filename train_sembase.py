@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-# file: train.py
-# author: songyouwei <youwei0314@gmail.com>
-# Copyright (C) 2018. All Rights Reserved.
+# file: train_sembase.py
 
 import logging
 import argparse
@@ -20,7 +18,7 @@ import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader, random_split
 
-from data_utils import Tokenizer4Bert, ABSADataset7, ABSADataset1, ABSADataset
+from data_utils import Tokenizer4Bert, ABSADataset7, ABSADataset
 
 from models import BERT_SPC, BERT_SPCno
 
@@ -39,12 +37,12 @@ class Instructor:
 
         self.trainset = ABSADataset(opt.dataset_file['train'], tokenizer)
         self.testset = ABSADataset7(opt.dataset_file['test'], tokenizer)
-        #self.valset = ABSADataset1(opt.dataset_file['val'], tokenizer)
+        # self.valset = ABSADataset1(opt.dataset_file['val'], tokenizer)
 
         assert 0 <= opt.valset_ratio < 1
         if opt.valset_ratio > 0:
             valset_len = int(len(self.trainset) * opt.valset_ratio)
-            self.trainset, self.valset = random_split(self.trainset, (len(self.trainset)-valset_len, valset_len))
+            self.trainset, self.valset = random_split(self.trainset, (len(self.trainset) - valset_len, valset_len))
         else:
             self.valset = self.testset
 
@@ -60,7 +58,8 @@ class Instructor:
                 n_trainable_params += n_params
             else:
                 n_nontrainable_params += n_params
-        logger.info('> n_trainable_params: {0}, n_nontrainable_params: {1}'.format(n_trainable_params, n_nontrainable_params))
+        logger.info(
+            '> n_trainable_params: {0}, n_nontrainable_params: {1}'.format(n_trainable_params, n_nontrainable_params))
         logger.info('> training arguments:')
         for arg in vars(self.opt):
             logger.info('>>> {0}: {1}'.format(arg, getattr(self.opt, arg)))
@@ -116,7 +115,8 @@ class Instructor:
                 max_val_epoch = i_epoch
                 if not os.path.exists('state_dict'):
                     os.mkdir('state_dict')
-                path = 'state_dict/{0}_{1}_val_acc_{2}_{3}'.format(self.opt.model_name, self.opt.dataset, round(val_acc, 4), round(val_f1, 4))
+                path = 'state_dict/{0}_{1}_val_acc_{2}_{3}'.format(self.opt.model_name, self.opt.dataset,
+                                                                   round(val_acc, 4), round(val_f1, 4))
                 torch.save(self.model.state_dict(), path)
                 logger.info('>> saved: {}'.format(path))
             if val_f1 > max_val_f1:
@@ -158,7 +158,8 @@ class Instructor:
                 correct_implicit += (implicits & (pred == t_targets)).long().sum().item()
 
         acc = n_correct / n_total
-        f1 = metrics.f1_score(t_targets_all.cpu(), torch.argmax(t_outputs_all, -1).cpu(), labels=[0, 1, 2], average='macro')
+        f1 = metrics.f1_score(t_targets_all.cpu(), torch.argmax(t_outputs_all, -1).cpu(), labels=[0, 1, 2],
+                              average='macro')
         explicit_acc = correct_explicit / total_explicit if total_explicit else 0.0
         implicit_acc = correct_implicit / total_implicit if total_implicit else 0.0
         return acc, f1, explicit_acc, implicit_acc
@@ -177,8 +178,10 @@ class Instructor:
         best_model_path = self._train(criterion, optimizer, train_data_loader, val_data_loader)
         self.model.load_state_dict(torch.load(best_model_path))
         test_acc, test_f1, ese, ise = self._evaluate_acc_f1(test_data_loader)
-        logger.info('>> test_acc: {:.4f}, test_f1: {:.4f}, explicit acc: {:.4f}, implicits acc: {:.4f}'.format(test_acc, test_f1, ese, ise))
-
+        logger.info('>> test_acc: {:.4f}, test_f1: {:.4f}, explicit acc: {:.4f}, implicits acc: {:.4f}'.format(test_acc,
+                                                                                                               test_f1,
+                                                                                                               ese,
+                                                                                                               ise))
 
 
 def main():
@@ -204,10 +207,12 @@ def main():
     parser.add_argument('--patience', default=5, type=int)
     parser.add_argument('--device', default=None, type=str, help='e.g. cuda:0')
     parser.add_argument('--seed', default=1234, type=int, help='1234set seed for reproducibility')
-    parser.add_argument('--valset_ratio', default=0, type=float, help='set ratio between 0 and 1 for validation support')
+    parser.add_argument('--valset_ratio', default=0, type=float,
+                        help='set ratio between 0 and 1 for validation support')
     # The following parameters are only valid for the lcf-bert model
     parser.add_argument('--local_context_focus', default='cdm', type=str, help='local context focus mode, cdw or cdm')
-    parser.add_argument('--SRD', default=3, type=int, help='semantic-relative-distance, see the paper of LCF-BERT model')
+    parser.add_argument('--SRD', default=3, type=int,
+                        help='semantic-relative-distance, see the paper of LCF-BERT model')
     opt = parser.parse_args()
 
     if opt.seed is not None:
